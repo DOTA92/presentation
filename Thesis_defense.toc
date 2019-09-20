@@ -1,0 +1,8 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Modeling}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Static analysis}{10}{0}{2}
+\beamer@subsectionintoc {2}{2}{Dynamic analysis}{16}{0}{2}
+\beamer@sectionintoc {3}{Laminate}{19}{0}{3}
+\beamer@subsectionintoc {3}{1}{Laminate composite with circular section}{19}{0}{3}
+\beamer@sectionintoc {4}{Conclusion}{25}{0}{4}

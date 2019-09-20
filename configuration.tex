@@ -1,0 +1,127 @@
+
+%\usetheme{Madrid}
+%\usetheme{Warsaw}
+\useoutertheme{shadow}
+\useinnertheme[shadow=true]{rounded}
+\usecolortheme{rose}
+\setbeamertemplate{blocks}[rounded][shadow=false]
+\beamertemplatenavigationsymbolsempty
+\setbeamersize{text margin left=5mm,text margin right=5mm} 
+
+\definecolor{headfq}{RGB}{255,0,0}   %red
+\definecolor{headbg}{RGB}{249,196,95}  
+%\definecolor{titlebg}{RGB}{0,153,79} %green
+\definecolor{titlebg}{RGB}{49,91,125} %steel blue
+%\definecolor{backse}{RGB}{0,102,52} %green
+\definecolor{backse}{RGB}{70,130,180} %steel blue
+\definecolor{Periwinkle}{RGB}{153,146,172}
+
+\definecolor{screenfoot}{RGB}{224,224,224}
+\definecolor{letterfoot}{RGB}{153,0,76}
+
+
+\setbeamercolor{Periwinkle}{fg=Periwinkle,bg=Periwinkle!50!white}
+\setbeamercolor{equation}{fg=example text.fg,bg=example text.fg!20!bg}
+\setbeamercolor{frametitle}{fg=white,bg=titlebg}
+\setbeamercolor{title}{fg=white,bg=titlebg}
+\setbeamercolor{palette}{bg=titlebg}
+\setbeamercolor{section in head/foot}{fg=white,bg=titlebg}
+\setbeamercolor{footcolor}{fg=white,bg=titlebg}
+
+\setbeamertemplate{section in head/foot}{\colorbox{backse}{\insertsectionhead}}
+\setbeamertemplate{section in head/foot shaded}{\color{fg!50!bg}\insertsectionhead}
+\setbeamerfont*{title}{series=\bfseries}
+
+\newcommand*\circled[1]{\tikz[baseline=(char.base)]{
+ 			\node[shape=circle,draw=green,fill=green,minimum size=6mm] (char) {#1};}}
+            
+\newcommand*\triangled[1]{\tikz[baseline=(char.base)]{
+ 			\node[shape=regular polygon,regular polygon sides=3,draw=red,fill=red,inner sep=1pt] (char) {#1};}}            
+
+
+\setbeamertemplate{headline}{%
+\leavevmode%
+  \hbox{%
+    \begin{beamercolorbox}[wd=\paperwidth,ht=2.8ex,dp=0.525ex]{palette}%
+    \hspace*{1em}
+    \insertsectionnavigationhorizontal{\paperwidth}{}{\hskip0pt plus1filll}
+     \end{beamercolorbox}%
+  }
+}
+
+
+\setbeamertemplate{frametitle}
+{
+\vskip-1pt
+  \leavevmode
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=0.5ex]{frametitle}%
+    %\includegraphics[height=0.35in]{logL2E.png}\hfill
+    \raggedleft
+    \textbf{\LARGE\insertframetitle} \hspace*{0.5em}
+  \end{beamercolorbox}
+  }%
+}
+
+
+\setbeamertemplate{footline}{%
+   \leavevmode%
+%\rule{2cm}{0.2cm}‎
+  \hbox{%
+  \begin{beamercolorbox}[wd=\paperwidth,ht=2.5ex,dp=1.0ex]{footcolor}%
+    \raggedleft
+    \insertpagenumber  \hspace*{0.5em}
+  \end{beamercolorbox}%
+  }%
+}
+
+\newcommand\Wider[2][3em]{%
+\makebox[\linewidth][c]{%
+  \begin{minipage}{\dimexpr\textwidth+#1\relax}
+  \raggedright#2
+  \end{minipage}%
+  }%
+}
+
+
+%style designer
+\tikzstyle{decision} = [diamond, draw, fill=blue!20, text width=3.5em, text badly centered, node distance=3cm, inner sep=0pt]
+\tikzstyle{block} = [rectangle, draw, fill=blue!20, text width=14em, text centered, rounded corners, minimum height=1em]
+\tikzstyle{line} = [draw=red, -latex    ]
+\tikzstyle{cloud} = [draw, ellipse,fill=red!20, node distance=3cm, minimum height=2em]
+
+
+%redefine block
+%\newsavebox{\squaredblocktext}
+%\setbeamertemplate{block begin}{
+%    \par\vskip\medskipamount%
+%    \makebox[\dimexpr\textwidth-1.5ex\relax][l]{%
+%        \begin{beamercolorbox}[colsep*=.75ex]{block title}
+%            \usebeamerfont*{block title}\insertblocktitle%
+%        \end{beamercolorbox}}%
+%        \begin{lrbox}{\squaredblocktext}%
+%            \begin{minipage}[t]{\textwidth}%
+%                \ifbeamercolorempty[bg]{block body}{\vskip-0.25ex}{\vskip-0.75ex}\vbox{}%
+%}
+%
+%\setbeamertemplate{block end}{
+%            \end{minipage}%
+%        \end{lrbox}%
+%        {\parskip0pt\par}%
+%        \ifbeamercolorempty[bg]{block title}{}
+%        {\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+%        \usebeamerfont{block body}%
+%        \makebox[\dimexpr\textwidth-1.5ex\relax][l]{%
+%        \begin{beamercolorbox}[colsep*=.75ex,vmode]{block body}%
+%            \usebox{\squaredblocktext}
+%        \end{beamercolorbox}%
+%    }\vskip\smallskipamount%
+%}
+
+% Make reference on slide
+\newcommand{\refonslide}[3]{
+\begin{tikzpicture}
+\node[rectangle,minimum width=0.99\textwidth] (m) {\begin{minipage}{0.95\textwidth}\scriptsize #1 \textit{#2} #3 \end{minipage}};
+\draw[violet, dashed] (m.south west) rectangle (m.north east);
+\end{tikzpicture}
+}
