@@ -586,7 +586,7 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 
 \begin{frame}\frametitle{DC magnetic field dependence}
 %\vspace{-5.5pt}
-\Wider[4em]{
+\Wider[3em]{
 \begin{columns}[totalwidth=\textwidth]
    \begin{column}{.52\textwidth}
        \centering
@@ -642,34 +642,340 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 
 \begin{frame}\frametitle{Performance}
 %\vspace{-10.5pt}
+\Wider[3em]{
 \begin{columns}[totalwidth=\textwidth]
    \begin{column}{.49\textwidth}
-       \begin{block}{TT mode}
-    {
-        \includegraphics[height=0.4\textwidth ,width=0.99\textwidth]{Graphic/TT_compare_power.pdf}
-    }
-    \end{block}
-
+   \centering
+   TT mode
+       \includegraphics[width=0.99\textwidth]{Graphic/TT_compare_power.pdf}
    \end{column}
    \begin{column}{.49\textwidth}
-       \begin{block}{LT mode}
-    {
-        \includegraphics[height=0.4\textwidth ,width=0.99\textwidth]{Graphic/LT_compare_power.pdf}
-    }
-    \end{block}
+   \centering
+   LT mode
+       \includegraphics[width=0.99\textwidth]{Graphic/LT_compare_power.pdf}
    \end{column}
 \end{columns}
-\begin{itemize}
+}
+\begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 \item Output power $P=V^2/R$ (post processing)
 \item The eddy current decrease the performance of material.
 \item Measurement with $P_{max}=2.75(\mu W)$ $R_{opt}=0.6 k\Omega$
 \end{itemize}
 \end{frame}
 
+
+\subsection{Laminate composite with rectangular section}
 \begin{frame}\frametitle{Geometry}
 %\vspace{-10.5pt}
-
+\includegraphics[width=0.99\textwidth]{Graphic/03_georecta.pdf}
 \end{frame}
+
+\begin{frame}\frametitle{DC magnetic field dependency}
+%\vspace{-10.5pt}
+ \includegraphics[width=0.69\textwidth]{Graphic/03_volta_bias_recta.pdf}
+\end{frame}
+
+\begin{frame}\frametitle{Frequency dependency}
+%\vspace{-10.5pt}
+ \includegraphics[width=0.69\textwidth]{Graphic/03_volta_dyna_recta.pdf}
+\end{frame}
+
+\begin{frame}\frametitle{Field distribution}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.5\textwidth}
+ \centering
+ Magnetic induction distribution
+ \includegraphics[height=0.8\textwidth, width=0.99\textwidth]{Graphic/03_MErectamagnefluxXZview}
+ \end{column}
+ \begin{column}{.5\textwidth}
+ \centering
+ Electric potential distribution
+ \includegraphics[height=0.8\textwidth, width=0.99\textwidth]{Graphic/03_MErectaelecpoten3d}
+  \end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Geometry}
+%\vspace{-10.5pt}
+\Wider[3em]{
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.45\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_LTref1.pdf}
+ \end{column}
+ \begin{column}{.19\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_geo_B}
+ \end{column}
+ \begin{column}{.35\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_geo_Iform}
+ \end{column}
+ \end{columns}
+ }
+ \begin{exampleblock}{Three configurations are examined}
+\begin{enumerate}[label=\Alph*., font=\small, leftmargin=*]
+\item Width of 5mm for all layers.
+\item Width of 1mm for all layers.
+\item Width of 5mm for magnetostrictive layer and width of 1mm for piezoelectric layer.
+\end{enumerate}
+\end{exampleblock}
+\end{frame}
+
+\begin{frame}\frametitle{Performance}
+%\vspace{-10.5pt}
+\Wider[3em]{
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.49\textwidth}
+   \centering
+   Voltage
+       \includegraphics[width=0.99\textwidth]{Graphic/03_rectavoltage.pdf}
+   \end{column}
+   \begin{column}{.49\textwidth}
+   \centering
+   Output power
+       \includegraphics[width=0.99\textwidth]{Graphic/03_rectapower.pdf}
+   \end{column}
+\end{columns}
+}
+\end{frame}
+
+\begin{frame}\frametitle{Parametric study}
+%\vspace{-10.5pt}
+\Wider[2em]{
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.49\textwidth}
+   \includegraphics[width=0.95\textwidth]{Graphic/03_rectavoltage_w.pdf}
+   \includegraphics[width=0.95\textwidth]{Graphic/03_rectafrequency_w.pdf}
+   \end{column}
+   \begin{column}{.49\textwidth}
+   \includegraphics[width=0.99\textwidth]{Graphic/03_rectapower_w.pdf}
+   \begin{exampleblock}{}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item a
+	\item b
+	\item c
+	\end{itemize}
+	\end{exampleblock}
+   \end{column}
+\end{columns}
+}
+\end{frame}
+
+\section{Homogenization}
+\subsection{Context}
+
+\begin{frame}\frametitle{0-3 type and 1-3 type ME composite}
+%\vspace{-10.5pt}
+\begin{itemize}[]
+	\item[{\color{green} $\checkmark$}] 3D FEM is useful to study the behavior of ME laminate composite
+	\item[{\color{red} $X$}] It is difficult to apply for fiber composite and particulate composite
+	\end{itemize}
+
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.30\textwidth}
+   \includegraphics[width=0.99\textwidth]{Graphic/04_realimage}
+   \end{column}
+   \begin{column}{.05\textwidth}
+   {\color{red} \Large$\mathbf{\boldsymbol{\rightarrow}}$}
+   \end{column}
+   \begin{column}{.65\textwidth}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item a
+	\item b
+	\end{itemize}
+   \includegraphics[width=0.99\textwidth]{Graphic/04_periostruc.pdf}
+   \end{column}
+\end{columns}	
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.35\textwidth}
+\refonslide{Vadla, S. et al. (2016)}{Magnetoelectric coupling in 0.5 Pb (Ni1/3Nb2/3) O3–0.35 PbTiO3–0.15 PbZrO3 and CoFe2O4 based particulate composites.}{Scripta Materialia}
+	\end{column}
+	\begin{column}{.63\textwidth}
+	\centering
+	Analytical method {\color{red} \Large$\mathbf{\boldsymbol{\rightarrow}}$} Simple structure (Fiber composite)
+	\refonslide{Corcolle, R. et al., 2008}{Generic formalism for homogenization of coupled behavior: Application to magnetoelectroelastic behavior.}{Physical Review B.}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Boundary condition}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.50\textwidth}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item a
+	\item b \\
+	Point: $k_i + d_i$, $k_i$ \\
+	Edge: $(k_{i1}+d_i,k_{i2}+d_i$), $(k_{i1},k_{i2})$
+	\end{itemize}
+\textbf{Mechanics}
+\begin{equation*}
+u_j(k_i+d_i) = u_j(k_i)+\bar{S}_{ij}d_i
+\end{equation*}
+\textbf{Electric}
+\begin{equation*}
+V(k_i+d_i) = V(k_i)+\bar{E}_{i}d_i
+\end{equation*}
+   \end{column}
+   \begin{column}{.49\textwidth}
+   \includegraphics[width=0.99\textwidth]{Graphic/04_meshperiocondi.pdf}
+   \end{column}
+\end{columns}
+\textbf{Magnetic}
+\begin{equation*}
+a(k_{i1}+d_i,k_{i2}+d_i) = a(k_{i1},k_{i2})+ c_j \phi_j + c_k\phi_k \hspace{1cm} \phi_j = \int \boldsymbol{B}_jdA
+\end{equation*}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.65\textwidth}\vspace*{-\baselineskip}
+	\begin{equation*} 
+				\left\{ 
+				\begin{aligned}
+				c_j = & 1/-1 & \enspace \text{for the red edges } \\
+				c_0 = & 0 & \enspace \text{for the others }
+        		\end{aligned}
+				\right.
+	\end{equation*}
+	\end{column}
+	\begin{column}{.30\textwidth}
+	A : the perpendicular surface
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Effective coefficients}
+%\vspace{-10.5pt}
+\includegraphics[width=0.99\textwidth]{Graphic/04_homoprocedure.pdf}
+\end{frame}
+
+\subsection{Fiber composite}
+\begin{frame}\frametitle{Apply of magnetic field}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.30\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_geocylin.pdf}
+   \end{column}
+   \begin{column}{.70\textwidth}
+   \centering
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item Magnetostrictive matrix (CoFe$_2$O$_4$) reinforced by fiber piezoelectric (BaTiO$_3$).
+	\item The volume fraction is $f=0$ to $f=0.8$.
+	\end{itemize}
+   \end{column}
+\end{columns}
+\begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.25\textwidth}
+   \centering
+   Example:
+   Magnetic field is applied
+   \end{column}
+   \begin{column}{.35\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_magnecylinb1.pdf}
+   3D view
+   \end{column}
+   \begin{column}{.35\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_magnecylinb1_xyview.pdf}
+   Top view
+   \end{column}
+\end{columns}
+%\begin{columns}[totalwidth=\textwidth]
+%	\begin{column}{.25\textwidth}
+%   \centering
+%   Zero electric boundary conditions is applied.
+%   \end{column}
+%   \begin{column}{.35\textwidth}
+%   \centering
+%   \includegraphics[width=0.99\textwidth]{Graphic/04_cylinelecpotenb1_yzview}
+%   \end{column}
+%   \begin{column}{.35\textwidth}
+%   \centering
+%   \includegraphics[width=0.99\textwidth]{Graphic/04_cylinelecfieldb1_yzview.pdf}
+%   \end{column}
+%\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Effective coefficient}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.40\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_cylinmatee.pdf}
+   \end{column}
+   \begin{column}{.40\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_cylinmatqu.pdf}
+   \end{column}
+\end{columns}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.40\textwidth}
+   \centering
+   \includegraphics[width=0.99\textwidth]{Graphic/04_cylinmatalpha.pdf}
+   \end{column}
+\end{columns}
+\end{frame}
+
+
+\subsection{Particulate composite}
+
+\begin{frame}\frametitle{Field distribution}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.38\textwidth}
+   \includegraphics[width=0.9\textwidth]{Graphic/04_geocube.pdf}
+   Magnetic field is applied
+   \begin{enumerate}[label=(\alph*), font=\small, leftmargin=*]
+	\item Magnetic field 
+	\item Displacement field 
+	\item Electric field 
+	\item Electric potential 
+	\end{enumerate}
+   \end{column}
+   \begin{column}{.62\textwidth}
+	\includegraphics[width=0.99\textwidth]{Graphic/04_cubeillush1}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Effective coefficient}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.49\textwidth}
+	\centering
+	\includegraphics[width=0.99\textwidth]{Graphic/04_cubematqu.pdf}
+	\end{column}
+	\begin{column}{.49\textwidth}
+	\centering	
+	\includegraphics[width=0.99\textwidth]{Graphic/04_cubematalpha.pdf}
+	\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Dynamic analysis}
+%\vspace{-10.5pt}
+\begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.35\textwidth}
+	\centering
+	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubemagnefield300k_XZview.pdf}
+	\end{column}
+	\begin{column}{.35\textwidth}
+	\centering	
+	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubeeddy300k_XYview.pdf}
+	\end{column}
+\end{columns}
+\begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.35\textwidth}
+	\centering
+	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubemagnefield3MHz_XZview.pdf}
+	\end{column}
+	\begin{column}{.35\textwidth}
+	\centering	
+	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubeeddy3MHz_XYview.pdf}
+	\end{column}
+\end{columns}
+\end{frame}
+
+
 
 
 
@@ -697,7 +1003,19 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \item Time reduction for computation is needed.
 \end{itemize}
 \end{exampleblock}
-\vspace*{0.5cm}
+\end{frame}
+
+
+\begin{frame}\frametitle{Publication}
+\refonslide{Homogenization of Magnetoelectric 0–3 Type Composites by 3-D Multiphysics Finite-Element Modeling.}{IEEE Transactions on Magnetics}{2019.}
+
+
+\refonslide{3-D Finite Element Analysis of Magnetoelectric Composites Accounting for Material Nonlinearity and Eddy Currents.}{IEEE Transactions on Magnetics}{2019.}
+
+
+\refonslide{3D FEM modeling and study of novel structure of magnetoelectric composites.}{International Journal of Numerical Modelling: Electronic Networks, Devices and Fields}{2019.}
+
+
 \centering {\color{red}\textbf{\huge THANK YOU FOR YOUR ATTENTION}}
 \end{frame}
 
