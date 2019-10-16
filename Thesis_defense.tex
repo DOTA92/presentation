@@ -100,7 +100,7 @@
 \begin{tabular}[t]{ll}
 Thesis directors: & Zhuoxiang Ren \\ [0.2cm]
 & Hakeim Talleb \\ [0.2cm]
-Supervisor : & Aurélie Gensbittel \\
+Supervisor : & Aurelie Gensbittel \\
 \end{tabular} \\
 \end{frame}
 
@@ -213,7 +213,7 @@ The evolution of IoTs \\
 \begin{columns}[totalwidth=\textwidth] 
    \begin{column}{.99\textwidth} 
    \begin{beamercolorbox}[sep=8pt,center]{block title}
-      Three type of ME composite
+      Three types of ME composite
       \end{beamercolorbox}
    \includegraphics[width=0.99\textwidth]{Graphic/01_threetypecomposite.pdf}
    \begin{minipage}{0.32\textwidth}
@@ -275,7 +275,7 @@ The evolution of IoTs \\
   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 	\item Develop a 3D FEM to consider complex structure.
 	\item Analyze laminate composite( circular section, rectangular section), novel structure.
-	\item Investigate different type: particulate composite and fiber composite.
+	\item Investigate different types: particulate composite and fiber composite.
 	\end{itemize}
 \end{exampleblock}	
 \end{frame}
@@ -304,7 +304,7 @@ The evolution of IoTs \\
 \vspace{0.5cm}
 \begin{exampleblock}{} 
   \centering
-  Magnetic Field {\color{red} \Large$\mathbf{\boldsymbol{\rightarrow}}$} Electric potential distribution
+  Magnetic Field {\color{red} \Large$\mathbf{\boldsymbol{\rightarrow}}$} Output voltage
 \end{exampleblock}	
 \end{frame}
 
@@ -396,10 +396,42 @@ $
 %\end{columns}	
 \end{frame}
 
+\begin{frame}\frametitle{Static analysis}
+%\vspace{-10.5pt}
+\begin{beamercolorbox}[center]{equation}
+      \begin{equation*}
+		[\mathbb{K}] \{ X \}=[F]
+		\end{equation*}
+\end{beamercolorbox}
+\begin{itemize} [label=$\bullet$, font=\small, leftmargin=*]
+\begin{minipage}{0.53\linewidth}
+\item  $ 
+[\mathbb{K}] = \begin{bmatrix}
+       \boldsymbol{K}_{uu}  & -\boldsymbol{K}^t_{au} & \boldsymbol{K}^t_{vu}          \\[0.3em]
+       -\boldsymbol{K}_{au} & \boldsymbol{K}_{aa}           & 0 \\[0.3em]
+       \boldsymbol{K}_{vu}         & 0 & -\boldsymbol{K}_{vv} &  \\
+     \end{bmatrix}
+$
+\end{minipage}
+\begin{minipage}{0.4\linewidth}
+\item $\{ X \} = \{\boldsymbol{u},\hspace{0.2cm} \boldsymbol{a},\hspace{0.2cm} V \}^t$
+\item $[F] = \{0, \hspace{0.2cm} \Sigma_k a_k, \hspace{0.2cm} 0 \}^t$
+\end{minipage}
+\end{itemize}
+\begin{columns}[totalwidth=\textwidth] 
+   \begin{column}{.25\textwidth}
+   Nonlinear magnetostriction
+   \end{column}
+    \begin{column}{.75\textwidth}
+	\includegraphics[width=0.95\textwidth]{Graphic/02_biaspoint2.pdf}
+	\end{column}
+\end{columns}	
+\end{frame}
+
 \begin{frame}\frametitle{Nonlinear magnetostriction}
 %\vspace{-10.5pt}
 \begin{beamercolorbox}[sep=5pt,center]{equation}
-     Decribe the nonlinear behavior by multiscale model
+     Describe the nonlinear behavior by multiscale model
 \end{beamercolorbox}
 \begin{columns}[totalwidth=\textwidth] 
    \begin{column}{.5\textwidth}
@@ -487,7 +519,7 @@ $
 \item \textbf{Elastic equilibrium}
 \begin{equation*}
 	\text{div }\boldsymbol{T} + \boldsymbol{f} = \rho \frac{d^2 \boldsymbol{u}}{dt^2}
-	\hspace{2cm} \rho \text{: masse volumique kg/m}^3
+	\hspace{2cm} \rho \text{: density kg/m}^3
 	\end{equation*}
 
 \item \textbf{Ampere's law}
@@ -629,13 +661,43 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 \item The magnetic external field: $H_{ac}=1$ (Oe)
 \item The result with effect of eddy current in TT mode in concordance with measurment 
-\item The quality factor decrease under eddy current effect.
+\item The quality factor decreases under eddy current effect.
 \end{itemize}
 \end{column}
 \begin{column}{.39\textwidth}
 \centering
 \includegraphics[width=0.79\textwidth]{Graphic/03_potencircle}
 {\small Electrical potential distribution}
+\end{column}
+\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Skin effect}
+%\vspace{-10.5pt}
+\Wider[2em]{
+\begin{columns}[totalwidth=\textwidth]
+   \begin{column}{.49\textwidth}
+   \centering
+   TT mode
+       \includegraphics[height=0.49\textwidth ,width=0.99\textwidth]{Graphic/TT_compare_eddy.pdf}
+      \end{column}
+   \begin{column}{.49\textwidth}
+   \centering
+   1 kHz
+       \includegraphics[height=0.59\textwidth ,width=0.59\textwidth]{Graphic/eddy_1khz.pdf}
+     \end{column}
+\end{columns}
+}
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.49\textwidth}
+\centering
+   10 kHz
+       \includegraphics[height=0.59\textwidth ,width=0.59\textwidth]{Graphic/eddy_10khz.pdf}
+\end{column}
+\begin{column}{.49\textwidth}
+\centering
+   100 kHz
+       \includegraphics[height=0.59\textwidth ,width=0.59\textwidth]{Graphic/eddy_100khz.pdf}
 \end{column}
 \end{columns}
 \end{frame}
@@ -658,7 +720,7 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 }
 \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 \item Output power $P=V^2/R$ (post processing)
-\item The eddy current decrease the performance of material.
+\item The eddy currents decrease the performance of material.
 \item Measurement with $P_{max}=2.75(\mu W)$ $R_{opt}=0.6 k\Omega$
 \end{itemize}
 \end{frame}
@@ -668,16 +730,43 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \begin{frame}\frametitle{Geometry}
 %\vspace{-10.5pt}
 \includegraphics[width=0.99\textwidth]{Graphic/03_georecta.pdf}
+\centering
+{
+P51 (green layer): Thickness 1mm, surface 14x10 mmxmm \\
+Terfenol-D (magenta layer): Thickness 1mm, surface 20x10 mmxmm	
+}
 \end{frame}
 
 \begin{frame}\frametitle{DC magnetic field dependency}
 %\vspace{-10.5pt}
- \includegraphics[width=0.69\textwidth]{Graphic/03_volta_bias_recta.pdf}
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.69\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_volta_bias_recta.pdf}
+ \end{column}
+ \begin{column}{.29\textwidth}
+ \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+ \item $H_{dc}$ increases step by step from 0 Oe to 1000 Oe.
+ \item Output voltage at dynamic field $H_{ac} = 5$ Oe @ 1 kHz
+ \item Maximum output voltage is obtained at $H_{dc} = 650$ Oe
+ \end{itemize}
+ \end{column}
+\end{columns}
 \end{frame}
 
 \begin{frame}\frametitle{Frequency dependency}
 %\vspace{-10.5pt}
- \includegraphics[width=0.69\textwidth]{Graphic/03_volta_dyna_recta.pdf}
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.69\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_volta_dyna_recta.pdf}
+ \end{column}
+ \begin{column}{.30\textwidth}
+ \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+ \item Computed coefficients obtained at $H_{dc} = 650$ Oe are used for dynamic analysis $H_{ac} = 5$ Oe
+ \item Frequency varies from 60 Oe to 80 Oe
+ \item Maximum output voltage is obtained at resonance frequency $f=70$ kHz
+ \end{itemize}
+ \end{column}
+\end{columns}
 \end{frame}
 
 \begin{frame}\frametitle{Field distribution}
@@ -694,10 +783,30 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
  \includegraphics[height=0.8\textwidth, width=0.99\textwidth]{Graphic/03_MErectaelecpoten3d}
   \end{column}
 \end{columns}
+\begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+ \item High value of magnetic induction at magnetostrictive layer
+ \item Polarization is observed at piezoelectric layer
+ \item To increase the efficiency, the study of different ME structures is followed
+ \end{itemize}
 \end{frame}
 
 \begin{frame}\frametitle{Geometry}
 %\vspace{-10.5pt}
+Decreasing of the width can generate higher output voltage
+\begin{columns}[totalwidth=\textwidth]
+ \begin{column}{.55\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_LTref1.pdf}
+ \end{column}
+ \begin{column}{.25\textwidth}
+ \includegraphics[width=0.99\textwidth]{Graphic/03_geo_B}
+ \end{column}
+ \end{columns}
+ \refonslide{Wen, J. et al., 2008}{A coupling finite element model for analysis the nonlinear dynamic magnetoelectric response of tri-layer laminate composites.}{Composite Structures}
+\end{frame}
+
+\begin{frame}\frametitle{Geometry}
+%\vspace{-10.5pt}
+Decreasing of the width can generate higher output voltage
 \Wider[3em]{
 \begin{columns}[totalwidth=\textwidth]
  \begin{column}{.45\textwidth}
@@ -736,6 +845,12 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
    \end{column}
 \end{columns}
 }
+\begin{exampleblock}{}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item Novel structure can generate higher output voltage and more output power.
+	\item Influence of width can be studied.
+	\end{itemize}
+	\end{exampleblock}
 \end{frame}
 
 \begin{frame}\frametitle{Parametric study}
@@ -750,9 +865,8 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
    \includegraphics[width=0.99\textwidth]{Graphic/03_rectapower_w.pdf}
    \begin{exampleblock}{}
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
-	\item a
-	\item b
-	\item c
+	\item Highest value of output voltage and power can be obtained at piezoelectric width of 0.8 mm
+	\item Resonance frequency decreases when the width increases (the structure is more rigid).
 	\end{itemize}
 	\end{exampleblock}
    \end{column}
@@ -779,8 +893,8 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
    \end{column}
    \begin{column}{.65\textwidth}
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
-	\item a
-	\item b
+	\item The size of the particles is very small.
+	\item The mesh is heavy.
 	\end{itemize}
    \includegraphics[width=0.99\textwidth]{Graphic/04_periostruc.pdf}
    \end{column}
@@ -800,10 +914,10 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \begin{frame}\frametitle{Boundary condition}
 %\vspace{-10.5pt}
 \begin{columns}[totalwidth=\textwidth]
-   \begin{column}{.50\textwidth}
+   \begin{column}{.51\textwidth}
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
-	\item a
-	\item b \\
+	\item Boundary surfaces must be similar.
+	\item On the boundary surfaces: \\
 	Point: $k_i + d_i$, $k_i$ \\
 	Edge: $(k_{i1}+d_i,k_{i2}+d_i$), $(k_{i1},k_{i2})$
 	\end{itemize}
@@ -858,7 +972,7 @@ a(k_{i1}+d_i,k_{i2}+d_i) = a(k_{i1},k_{i2})+ c_j \phi_j + c_k\phi_k \hspace{1cm}
    \centering
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 	\item Magnetostrictive matrix (CoFe$_2$O$_4$) reinforced by fiber piezoelectric (BaTiO$_3$).
-	\item The volume fraction is $f=0$ to $f=0.8$.
+	\item The volume fraction varies $f=0$ to $f=0.8$.
 	\end{itemize}
    \end{column}
 \end{columns}
@@ -912,6 +1026,15 @@ a(k_{i1}+d_i,k_{i2}+d_i) = a(k_{i1},k_{i2})+ c_j \phi_j + c_k\phi_k \hspace{1cm}
    \centering
    \includegraphics[width=0.99\textwidth]{Graphic/04_cylinmatalpha.pdf}
    \end{column}
+   \begin{column}{.58\textwidth}
+   \begin{exampleblock}{}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item Simulation results show good concordance with analytical results. 
+	\item Local ME coefficient is observed.
+	\end{itemize}
+	\end{exampleblock}
+	\refonslide{Corcolle, R. et al., 2008}{Generic formalism for homogenization of coupled behavior: Application to magnetoelectroelastic behavior.}{Physical Review B.}
+   \end{column}
 \end{columns}
 \end{frame}
 
@@ -949,30 +1072,54 @@ a(k_{i1}+d_i,k_{i2}+d_i) = a(k_{i1},k_{i2})+ c_j \phi_j + c_k\phi_k \hspace{1cm}
 	\includegraphics[width=0.99\textwidth]{Graphic/04_cubematalpha.pdf}
 	\end{column}
 \end{columns}
+\begin{exampleblock}{}
+   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+	\item Piezomagnetic coefficient increases when the magnetostrictive volume fraction increases.
+	\item The optimal ME coefficient is observed ($f=0.5$).
+	\end{itemize}
+	\end{exampleblock}
 \end{frame}
 
 \begin{frame}\frametitle{Dynamic analysis}
 %\vspace{-10.5pt}
 \begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.30\textwidth}
+	Distribution of: \\
+	(a) Magnetic induction \\
+	(b) Eddy currents \\
+	at 300 kHz
+	\end{column}
 	\begin{column}{.35\textwidth}
 	\centering
-	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubemagnefield300k_XZview.pdf}
+	a
+	\includegraphics[width=0.9\textwidth]{Graphic/04_B3cubemagnefield300k_XZview.pdf}
 	\end{column}
 	\begin{column}{.35\textwidth}
 	\centering	
-	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubeeddy300k_XYview.pdf}
+	b
+	\includegraphics[width=0.9\textwidth]{Graphic/04_B3cubeeddy300k_XYview.pdf}
 	\end{column}
 \end{columns}
 \begin{columns}[totalwidth=\textwidth]
+	\begin{column}{.30\textwidth}
+	Distribution of: \\
+	(c) Magnetic induction \\
+	(d) Eddy currents \\
+	at 3 MHz
+	\end{column}
 	\begin{column}{.35\textwidth}
 	\centering
-	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubemagnefield3MHz_XZview.pdf}
+	c
+	\includegraphics[width=0.9\textwidth]{Graphic/04_B3cubemagnefield3MHz_XZview.pdf}
 	\end{column}
 	\begin{column}{.35\textwidth}
 	\centering	
-	\includegraphics[width=0.99\textwidth]{Graphic/04_B3cubeeddy3MHz_XYview.pdf}
+	d
+	\includegraphics[width=0.9\textwidth]{Graphic/04_B3cubeeddy3MHz_XYview.pdf}
 	\end{column}
 \end{columns}
+%\centering
+{\color{green} Skin effect is observed}
 \end{frame}
 
 
@@ -990,17 +1137,17 @@ a(k_{i1}+d_i,k_{i2}+d_i) = a(k_{i1},k_{i2})+ c_j \phi_j + c_k\phi_k \hspace{1cm}
 \section{Conclusion}
 \begin{frame}\frametitle{Conclusion and perspectives}
 \begin{block}{Conclusion}
-\begin{itemize}
-\item Completed FEM of circular tri-laminated ME composite has been presented.
-\item The effect of eddy current is included.
-\item The 3D analysis provides a useful tool to study ME composite of various geometries for energy transducer.
+\begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
+\item A 3D FEM has been developed for analyze the behavior of ME materials.
+\item Linear harmonic ME analysis and non-linear magnetostrictive analysis have been performed for laminate composite. The 3D analysis provides a useful tool to study ME composite of various geometries for energy transducer. Novel laminate structure has been studied.
+\item For particulate composite and fiber composite, the homogenization theory is applied.
 \end{itemize}
 \end{block}
 \begin{exampleblock}{Perspectives}
-\begin{itemize}
-\item Optimization geometry can be performed by this model.
-\item Investigation under large signal of magnetic field 
-\item Time reduction for computation is needed.
+\begin{itemize} [label=$\bullet$, font=\small, leftmargin=*]
+\item Other formulations for analyzing nonlinear magnetostrictive can be tested.
+\item A more efficient method for solving large matrix equations is needed.
+\item Other structure can be considered to improve ME coefficient.
 \end{itemize}
 \end{exampleblock}
 \end{frame}
