@@ -1,35 +1,32 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6630 64-bit) (preloaded format=pdflatex 2018.4.2)  16 OCT 2019 21:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.3)  25 OCT 2019 17:12
 entering extended mode
 **./Thesis_defense.tex
 (Thesis_defense.tex
-LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 75 language(s) loaded.
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
-Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
+LaTeX2e <2018-12-01>
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamer.cls"
+Document Class: beamer 2019/07/23 v3.56 A class for typesetting presentations
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasem
-odes.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.
-sty"
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count79
-)
-\beamer@tempbox=\box26
-\beamer@tempcount=\count80
-\c@beamerpauses=\count81
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbased
-ecode.sty"
-\beamer@slideinframe=\count82
-\beamer@minimum=\count83
-\beamer@decode@box=\box27
-)
-\beamer@commentbox=\box28
-\beamer@modecount=\count84
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.s
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasemo
+des.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.s
 ty"
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count80
+)
+\beamer@tempbox=\box27
+\beamer@tempcount=\count81
+\c@beamerpauses=\count82
+
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasede
+code.sty"
+\beamer@slideinframe=\count83
+\beamer@minimum=\count84
+\beamer@decode@box=\box28
+)
+\beamer@commentbox=\box29
+\beamer@modecount=\count85
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 \headdp=\dimen102
 \footheight=\dimen103
@@ -48,58 +45,53 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@descdefault=\dimen116
 \beamer@descriptionwidth=\dimen117
 \beamer@lastskip=\skip41
-\beamer@areabox=\box29
-\beamer@animcurrent=\box30
-\beamer@animshowbox=\box31
-\beamer@sectionbox=\box32
-\beamer@logobox=\box33
-\beamer@linebox=\box34
-\beamer@sectioncount=\count85
-\beamer@subsubsectionmax=\count86
-\beamer@subsectionmax=\count87
-\beamer@sectionmax=\count88
-\beamer@totalheads=\count89
-\beamer@headcounter=\count90
-\beamer@partstartpage=\count91
-\beamer@sectionstartpage=\count92
-\beamer@subsectionstartpage=\count93
-\beamer@animationtempa=\count94
-\beamer@animationtempb=\count95
-\beamer@xpos=\count96
-\beamer@ypos=\count97
-\beamer@ypos@offset=\count98
-\beamer@showpartnumber=\count99
-\beamer@currentsubsection=\count100
-\beamer@coveringdepth=\count101
-\beamer@sectionadjust=\count102
-\beamer@tocsectionnumber=\count103
+\beamer@areabox=\box30
+\beamer@animcurrent=\box31
+\beamer@animshowbox=\box32
+\beamer@sectionbox=\box33
+\beamer@logobox=\box34
+\beamer@linebox=\box35
+\beamer@sectioncount=\count86
+\beamer@subsubsectionmax=\count87
+\beamer@subsectionmax=\count88
+\beamer@sectionmax=\count89
+\beamer@totalheads=\count90
+\beamer@headcounter=\count91
+\beamer@partstartpage=\count92
+\beamer@sectionstartpage=\count93
+\beamer@subsectionstartpage=\count94
+\beamer@animationtempa=\count95
+\beamer@animationtempb=\count96
+\beamer@xpos=\count97
+\beamer@ypos=\count98
+\beamer@ypos@offset=\count99
+\beamer@showpartnumber=\count100
+\beamer@currentsubsection=\count101
+\beamer@coveringdepth=\count102
+\beamer@sectionadjust=\count103
+\beamer@tocsectionnumber=\count104
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseo
-ptions.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseop
+tions.sty" ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 ))
 \beamer@paperwidth=\skip42
 \beamer@paperheight=\skip43
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-sty"
-Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count104
-\Gm@cntv=\count105
-\c@Gm@tempcnt=\count106
+\Gm@cnth=\count105
+\Gm@cntv=\count106
+\c@Gm@tempcnt=\count107
 \Gm@bindingoffset=\dimen118
 \Gm@wd@mp=\dimen119
 \Gm@odd@mp=\dimen120
@@ -110,73 +102,57 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen125
 \Gm@dimlist=\toks15
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.
-cfg"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size11.clo"
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+("C:\Program Files\MiKTeX 2.9\tex/latex/geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
-core.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgfcore.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pg
-fsys.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfr
-cs.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-common.tex"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/systemlayer\pgfsys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
 \pgfutil@everybye=\toks16
 \pgfutil@tempdima=\dimen128
 \pgfutil@tempdimb=\dimen129
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-common-lists.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-futil-latex.def"
-\pgfutil@abb=\box35
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.te
+x")) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box36
+("C:\Program Files\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-frcs.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision
-.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
 Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys.code.tex"
 Package: pgfsys 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeys.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
 \pgfkeys@pathtoks=\toks17
 \pgfkeys@temptoks=\toks18
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeysfiltered.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.te
+x"
 \pgfkeys@tmptoks=\toks19
 ))
 \pgf@x=\dimen130
@@ -189,44 +165,39 @@ fkeysfiltered.code.tex"
 \pgf@yc=\dimen137
 \w@pgf@writea=\write3
 \r@pgf@reada=\read1
-\c@pgf@counta=\count107
-\c@pgf@countb=\count108
-\c@pgf@countc=\count109
-\c@pgf@countd=\count110
+\c@pgf@counta=\count108
+\c@pgf@countb=\count109
+\c@pgf@countc=\count110
+\c@pgf@countd=\count111
 \t@pgf@toka=\toks20
 \t@pgf@tokb=\toks21
 \t@pgf@tokc=\toks22
-\pgf@sys@id@count=\count111
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgf.cfg"
+\pgf@sys@id@count=\count112
+ ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgf.cfg"
 File: pgf.cfg 2019/02/02 v3.1.1 (3.1.1)
 )
 Driver file for pgf: pgfsys-pdftex.def
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-pdftex.def"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-pdftex.def"
 File: pgfsys-pdftex.def 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsys-common-pdf.def"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+"
 File: pgfsys-common-pdf.def 2019/02/02 v3.1.1 (3.1.1)
 )))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsyssoftpath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.t
+ex"
 File: pgfsyssoftpath.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfsyssoftpath@smallbuffer@items=\count112
-\pgfsyssoftpath@bigbuffer@items=\count113
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\
-pgfsysprotocol.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/systemlayer\pgfsysprotocol.code.t
+ex"
 File: pgfsysprotocol.code.tex 2019/02/02 v3.1.1 (3.1.1)
-))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -240,49 +211,42 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcore.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcore.code.tex"
 Package: pgfcore 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-calc.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-util.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-parser.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathcalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathutil.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathparser.code.tex"
 \pgfmath@dimen=\dimen138
-\pgfmath@count=\count114
-\pgfmath@box=\box36
+\pgfmath@count=\count115
+\pgfmath@box=\box37
 \pgfmath@toks=\toks23
 \pgfmath@stack@operand=\toks24
 \pgfmath@stack@operation=\toks25
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.basic.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.trigonometric.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.random.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.comparison.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.base.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.round.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.misc.code.tex")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-functions.integerarithmetics.code.tex")))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-float.code.tex"
-\c@pgfmathroundto@lastzeros=\count115
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.basic.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.trigonometr
+ic.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.random.code
+.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.comparison.
+code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.base.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.round.code.
+tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.misc.code.t
+ex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfunctions.integerarit
+hmetics.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmathfloat.code.tex"
+\c@pgfmathroundto@lastzeros=\count116
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepoints.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+"
 File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@picminx=\dimen139
 \pgf@picmaxx=\dimen140
@@ -299,115 +263,103 @@ File: pgfcorepoints.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@zx=\dimen151
 \pgf@zy=\dimen152
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathconstruct.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathconstruct.c
+ode.tex"
 File: pgfcorepathconstruct.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@path@lastx=\dimen153
 \pgf@path@lasty=\dimen154
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathusage.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathusage.code.
+tex"
 File: pgfcorepathusage.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@shorten@end@additional=\dimen155
 \pgf@shorten@start@additional=\dimen156
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorescopes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+"
 File: pgfcorescopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfpic=\box37
-\pgf@hbox=\box38
-\pgf@layerbox@main=\box39
-\pgf@picture@serial@count=\count116
+\pgfpic=\box38
+\pgf@hbox=\box39
+\pgf@layerbox@main=\box40
+\pgf@picture@serial@count=\count117
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoregraphicstate.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoregraphicstate.co
+de.tex"
 File: pgfcoregraphicstate.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgflinewidth=\dimen157
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoretransformations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransformations
+.code.tex"
 File: pgfcoretransformations.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@pt@x=\dimen158
 \pgf@pt@y=\dimen159
 \pgf@pt@temp=\dimen160
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorequick.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorequick.code.tex"
 File: pgfcorequick.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreobjects.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreobjects.code.te
+x"
 File: pgfcoreobjects.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepathprocessing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepathprocessing.
+code.tex"
 File: pgfcorepathprocessing.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorearrows.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+"
 File: pgfcorearrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgfarrowsep=\dimen161
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreshade.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex"
 File: pgfcoreshade.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \pgf@max=\dimen162
-\pgf@sys@shading@range@num=\count117
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreimage.code.tex"
+\pgf@sys@shading@range@num=\count118
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreimage.code.te
+x"
 File: pgfcoreimage.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoreexternal.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoreexternal.code.t
+ex"
 File: pgfcoreexternal.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfexternal@startupbox=\box40
+\pgfexternal@startupbox=\box41
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorelayers.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+"
 File: pgfcorelayers.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcoretransparency.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcoretransparency.co
+de.tex"
 File: pgfcoretransparency.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorepatterns.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorepatterns.code.t
+ex"
 File: pgfcorepatterns.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\p
-gfcorerdf.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex"
 File: pgfcorerdf.code.tex 2019/02/02 v3.1.1 (3.1.1)
-)))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\xxco
-lor.sty"
+))) ("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\xxcolor.sty"
 Package: xxcolor 2003/10/24 ver 0.1
-\XC@nummixins=\count118
-\XC@countmixins=\count119
+\XC@nummixins=\count119
+\XC@countmixins=\count120
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\atbegsh
-i.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -418,13 +370,9 @@ Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -445,89 +393,82 @@ Package hobsub Info: Skipping package `atbegshi' (already loaded).
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen163
-\Hy@linkcounter=\count120
-\Hy@pagecounter=\count121
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count122
+\Hy@SavedSpaceFactor=\count123
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4383.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4383.
-Package hyperref Info: Option `implicit' set `false' on input line 4383.
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4393.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4393.
+Package hyperref Info: Option `implicit' set `false' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count123
- ("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen164
-\Fld@menulength=\count124
+\Fld@menulength=\count125
 \Field@Width=\dimen165
 \Fld@charsize=\dimen166
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count125
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count126
 
 
 Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count126
-\c@bookmark@seq@number=\count127
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaser
-equires.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasec
-ompatibility.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ont.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.s
-ty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasere
+quires.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseco
+mpatibility.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasefo
+nt.sty" ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks26
 \symAMSa=\mathgroup4
@@ -535,94 +476,94 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\san
-smathaccent.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/sansmathaccent\sans
+mathaccent.sty"
 Package: sansmathaccent 2013/03/28
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\filehook\filehook.
-sty"
-Package: filehook 2019/10/03 v0.6 Hooks for input files
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/filehook\filehook.s
+ty"
+Package: filehook 2011/10/12 v0.5d Hooks for input files
 )))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-ranslator.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetr
+anslator.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or.sty"
 Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasem
-isc.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-woscreens.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseo
-verlay.sty"
-\beamer@argscount=\count128
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasemi
+sc.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasetw
+oscreens.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseov
+erlay.sty"
+\beamer@argscount=\count129
 \beamer@lastskipcover=\skip44
-\beamer@trivlistdepth=\count129
+\beamer@trivlistdepth=\count130
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-itle.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbases
-ection.sty"
-\c@lecture=\count130
-\c@part=\count131
-\c@section=\count132
-\c@subsection=\count133
-\c@subsubsection=\count134
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseti
+tle.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasese
+ction.sty"
+\c@lecture=\count131
+\c@part=\count132
+\c@section=\count133
+\c@subsection=\count134
+\c@subsubsection=\count135
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-rame.sty"
-\beamer@framebox=\box41
-\beamer@frametitlebox=\box42
-\beamer@zoombox=\box43
-\beamer@zoomcount=\count135
-\beamer@zoomframecount=\count136
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasefr
+ame.sty"
+\beamer@framebox=\box42
+\beamer@frametitlebox=\box43
+\beamer@zoombox=\box44
+\beamer@zoomcount=\count136
+\beamer@zoomframecount=\count137
 \beamer@frametextheight=\dimen167
-\c@subsectionslide=\count137
+\c@subsectionslide=\count138
 \beamer@frametopskip=\skip45
 \beamer@framebottomskip=\skip46
 \beamer@frametopskipautobreak=\skip47
 \beamer@framebottomskipautobreak=\skip48
 \beamer@envbody=\toks27
 \framewidth=\dimen168
-\c@framenumber=\count138
+\c@framenumber=\count139
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasev
-erbatim.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseve
+rbatim.sty"
 \beamer@verbatimfileout=\write4
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ramesize.sty"
-\beamer@splitbox=\box44
-\beamer@autobreakcount=\count139
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasefr
+amesize.sty"
+\beamer@splitbox=\box45
+\beamer@autobreakcount=\count140
 \beamer@autobreaklastheight=\dimen169
 \beamer@frametitletoks=\toks28
 \beamer@framesubtitletoks=\toks29
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasef
-ramecomponents.sty"
-\beamer@footins=\box45
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasefr
+amecomponents.sty"
+\beamer@footins=\box46
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasec
-olor.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasen
-otes.sty"
-\beamer@frameboxcopy=\box46
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseco
+lor.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseno
+tes.sty"
+\beamer@frameboxcopy=\box47
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-oc.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-emplates.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseto
+c.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasete
+mplates.sty"
 \beamer@sbttoks=\toks30
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasea
-uxtemplates.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaseb
-oxes.sty"
-\bmb@box=\box47
-\bmb@colorbox=\box48
-\bmb@boxshadow=\box49
-\bmb@boxshadowball=\box50
-\bmb@boxshadowballlarge=\box51
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseau
+xtemplates.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasebo
+xes.sty"
+\bmb@box=\box48
+\bmb@colorbox=\box49
+\bmb@boxshadow=\box50
+\bmb@boxshadowball=\box51
+\bmb@boxshadowballlarge=\box52
 \bmb@temp=\dimen170
 \bmb@dima=\dimen171
 \bmb@dimb=\dimen172
@@ -630,74 +571,65 @@ oxes.sty"
 )
 \beamer@blockheadheight=\dimen174
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasel
-ocalstructure.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.st
-y"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaselo
+calstructure.sty" ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\enumerate.sty"
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks31
 )
-\c@figure=\count140
-\c@table=\count141
+\c@figure=\count141
+\c@table=\count142
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbasen
-avigation.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbasena
+vigation.sty"
 \beamer@section@min@dim=\dimen175
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-heorems.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.st
-y"
-Package: amsmath 2017/09/02 v2.17a AMS math features
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseth
+eorems.sty" ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks32
 \ex@=\dimen176
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen177
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count142
-LaTeX Info: Redefining \frac on input line 213.
-\uproot@=\count143
-\leftroot@=\count144
-LaTeX Info: Redefining \overline on input line 375.
-\classnum@=\count145
-\DOTSCASE@=\count146
-LaTeX Info: Redefining \ldots on input line 472.
-LaTeX Info: Redefining \dots on input line 475.
-LaTeX Info: Redefining \cdots on input line 596.
-\Mathstrutbox@=\box52
-\strutbox@=\box53
+\inf@bad=\count143
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count144
+\leftroot@=\count145
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count146
+\DOTSCASE@=\count147
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
 \big@size=\dimen178
-LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
-\macc@depth=\count147
-\c@MaxMatrixCols=\count148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count148
+\c@MaxMatrixCols=\count149
 \dotsspace@=\muskip11
-\c@parentequation=\count149
-\dspbrk@lvl=\count150
+\c@parentequation=\count150
+\dspbrk@lvl=\count151
 \tag@help=\toks33
-\row@=\count151
-\column@=\count152
-\maxfields@=\count153
+\row@=\count152
+\column@=\count153
+\maxfields@=\count154
 \andhelp@=\toks34
 \eqnshift@=\dimen179
 \alignsep@=\dimen180
@@ -709,10 +641,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
 \multlinegap=\skip52
 \multlinetaggap=\skip53
 \mathdisplay@stack=\toks36
-LaTeX Info: Redefining \[ on input line 2817.
-LaTeX Info: Redefining \] on input line 2818.
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
 Package: amsthm 2017/10/31 v2.20.4
 \thm@style=\toks37
 \thm@bodyfont=\toks38
@@ -724,78 +656,61 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip56
 \dth@everypar=\toks42
 )
-\c@theorem=\count154
+\c@theorem=\count155
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerbaset
-hemes.sty"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamertheme
-default.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerfontt
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerbaseth
+emes.sty"))
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerthemed
+efault.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerfontth
+emedefault.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamercolort
 hemedefault.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolor
-themedefault.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinner
-themedefault.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerinnert
+hemedefault.sty"
 \beamer@dima=\dimen185
 \beamer@dimb=\dimen186
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouter
-themedefault.sty")))
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\
-tikz.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf
-.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beameroutert
+hemedefault.sty")))
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/frontendlayer\tikz.sty" ("C:\Progra
+m Files\MiKTeX 2.9\tex/latex/pgf/basiclayer\pgf.sty"
 Package: pgf 2019/02/02 v3.1.1 (3.1.1)
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-oduleshapes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleshapes.code.tex"
 File: pgfmoduleshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfnodeparttextbox=\box54
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-oduleplot.code.tex"
+\pgfnodeparttextbox=\box55
+) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduleplot.code.tex"
 File: pgfmoduleplot.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
-pgfcomp-version-0-65.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-0-65.
+sty"
 Package: pgfcomp-version-0-65 2019/02/02 v3.1.1 (3.1.1)
 \pgf@nodesepstart=\dimen187
 \pgf@nodesepend=\dimen188
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\
-pgfcomp-version-1-18.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/compatibility\pgfcomp-version-1-18.
+sty"
 Package: pgfcomp-version-1-18 2019/02/02 v3.1.1 (3.1.1)
-))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgff
-or.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfk
-eys.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-fkeys.code.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.s
-ty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pg
-ffor.code.tex"
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgffor.sty" ("C:\Progr
+am Files\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Program Files\MiK
+TeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex")) ("C:\Program Files\MiKTeX
+ 2.9\tex/latex/pgf/math\pgfmath.sty" ("C:\Program Files\MiKTeX 2.9\tex/generic/
+pgf/math\pgfmath.code.tex")) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/util
+ities\pgffor.code.tex"
 Package: pgffor 2019/02/02 v3.1.1 (3.1.1)
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath
-.code.tex")
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/math\pgfmath.code.tex")
 \pgffor@iter=\dimen189
 \pgffor@skip=\dimen190
 \pgffor@stack=\toks43
 \pgffor@toks=\toks44
-))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\tikz.code.tex"
+)) ("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz\tikz.code.t
+ex"
 Package: tikz 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
-flibraryplothandlers.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryplothandlers.
+code.tex"
 File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgf@plot@mark@count=\count155
+\pgf@plot@mark@count=\count156
 \pgfplotmarksize=\dimen191
 )
 \tikz@lastx=\dimen192
@@ -804,223 +719,218 @@ File: pgflibraryplothandlers.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \tikz@lastysaved=\dimen195
 \tikzleveldistance=\dimen196
 \tikzsiblingdistance=\dimen197
-\tikz@figbox=\box55
-\tikz@figbox@bg=\box56
-\tikz@tempbox=\box57
-\tikz@tempbox@bg=\box58
-\tikztreelevel=\count156
-\tikznumberofchildren=\count157
-\tikznumberofcurrentchild=\count158
-\tikz@fig@count=\count159
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-odulematrix.code.tex"
+\tikz@figbox=\box56
+\tikz@figbox@bg=\box57
+\tikz@tempbox=\box58
+\tikz@tempbox@bg=\box59
+\tikztreelevel=\count157
+\tikznumberofchildren=\count158
+\tikznumberofcurrentchild=\count159
+\tikz@fig@count=\count160
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmodulematrix.code.tex"
 File: pgfmodulematrix.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfmatrixcurrentrow=\count160
-\pgfmatrixcurrentcolumn=\count161
-\pgf@matrix@numberofcolumns=\count162
+\pgfmatrixcurrentrow=\count161
+\pgfmatrixcurrentcolumn=\count162
+\pgf@matrix@numberofcolumns=\count163
 )
-\tikz@expandcount=\count163
+\tikz@expandcount=\count164
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarytopaths.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarytopaths.code.tex"
 File: tikzlibrarytopaths.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.code.tex"
 File: tikzlibraryshapes.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.geometric.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.geometric.code.tex"
 File: tikzlibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.geometric.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.geometric.code.tex"
 File: pgflibraryshapes.geometric.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.misc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.misc.code.tex"
 File: tikzlibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.misc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.misc.code.tex"
 File: pgflibraryshapes.misc.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.symbols.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.symbols.code.tex"
 File: tikzlibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.symbols.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.symbols.code.tex"
 File: pgflibraryshapes.symbols.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.arrows.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.arrows.code.tex"
 File: tikzlibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.arrows.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.arrows.code.tex"
 File: pgflibraryshapes.arrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.callouts.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.callouts.code.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryshapes.multipart.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.callouts.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.callouts.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryshapes.multipart.code.tex"
 File: tikzlibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\sh
-apes\pgflibraryshapes.multipart.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/shapes\pgflibraryshapes
+.multipart.code.tex"
 File: pgflibraryshapes.multipart.code.tex 2019/02/02 v3.1.1 (3.1.1)
-\pgfnodepartlowerbox=\box59
-\pgfnodeparttwobox=\box60
-\pgfnodepartthreebox=\box61
-\pgfnodepartfourbox=\box62
-\pgfnodeparttwentybox=\box63
-\pgfnodepartnineteenbox=\box64
-\pgfnodeparteighteenbox=\box65
-\pgfnodepartseventeenbox=\box66
-\pgfnodepartsixteenbox=\box67
-\pgfnodepartfifteenbox=\box68
-\pgfnodepartfourteenbox=\box69
-\pgfnodepartthirteenbox=\box70
-\pgfnodeparttwelvebox=\box71
-\pgfnodepartelevenbox=\box72
-\pgfnodeparttenbox=\box73
-\pgfnodepartninebox=\box74
-\pgfnodeparteightbox=\box75
-\pgfnodepartsevenbox=\box76
-\pgfnodepartsixbox=\box77
-\pgfnodepartfivebox=\box78
+\pgfnodepartlowerbox=\box60
+\pgfnodeparttwobox=\box61
+\pgfnodepartthreebox=\box62
+\pgfnodepartfourbox=\box63
+\pgfnodeparttwentybox=\box64
+\pgfnodepartnineteenbox=\box65
+\pgfnodeparteighteenbox=\box66
+\pgfnodepartseventeenbox=\box67
+\pgfnodepartsixteenbox=\box68
+\pgfnodepartfifteenbox=\box69
+\pgfnodepartfourteenbox=\box70
+\pgfnodepartthirteenbox=\box71
+\pgfnodeparttwelvebox=\box72
+\pgfnodepartelevenbox=\box73
+\pgfnodeparttenbox=\box74
+\pgfnodepartninebox=\box75
+\pgfnodeparteightbox=\box76
+\pgfnodepartsevenbox=\box77
+\pgfnodepartsixbox=\box78
+\pgfnodepartfivebox=\box79
 )))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarysnakes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarysnakes.code.tex"
 File: tikzlibrarysnakes.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
 Package pgf Warning: Snakes have been superseded by decorations. Please use the
  decoration libraries instead of the snakes library on input line 14.
 
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarydecorations.pathmorphing.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarydecorations.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfm
-oduledecorations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.pathmorphing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/modules\pgfmoduledecorations.code
+.tex"
 \pgfdecoratedcompleteddistance=\dimen198
 \pgfdecoratedremainingdistance=\dimen199
 \pgfdecoratedinputsegmentcompleteddistance=\dimen256
 \pgfdecoratedinputsegmentremainingdistance=\dimen257
 \pgf@decorate@distancetomove=\dimen258
-\pgf@decorate@repeatstate=\count164
+\pgf@decorate@repeatstate=\count165
 \pgfdecorationsegmentamplitude=\dimen259
 \pgfdecorationsegmentlength=\dimen260
 )
-\tikz@lib@dec@box=\box79
+\tikz@lib@dec@box=\box80
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
-corations\pgflibrarydecorations.pathmorphing.code.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarydecorations.pathreplacing.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
-corations\pgflibrarydecorations.pathreplacing.code.tex"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarydecorations.shapes.code.tex"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\de
-corations\pgflibrarydecorations.shapes.code.tex")))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryarrows.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.pathmorphing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.pathreplacing.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.pathreplacing.code.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarydecorations.shapes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries/decorations\pgflibraryd
+ecorations.shapes.code.tex")))
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryarrows.code.tex"
 File: tikzlibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pg
-flibraryarrows.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/libraries\pgflibraryarrows.code.t
+ex"
 File: pgflibraryarrows.code.tex 2019/02/02 v3.1.1 (3.1.1)
 \arrowsize=\dimen261
 ))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibraryscopes.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+libraryscopes.code.tex"
 File: tikzlibraryscopes.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarypositioning.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarypositioning.code.tex"
 File: tikzlibrarypositioning.code.tex 2019/02/02 v3.1.1 (3.1.1)
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlaye
-r\tikz\libraries\tikzlibrarycalc.code.tex"
+("C:\Program Files\MiKTeX 2.9\tex/generic/pgf/frontendlayer/tikz/libraries\tikz
+librarycalc.code.tex"
 File: tikzlibrarycalc.code.tex 2019/02/02 v3.1.1 (3.1.1)
-) ("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+) ("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/bbm\bbm.sty"
 Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
 LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
 (Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
 (Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\epsfig.st
-y"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\epsfig.sty"
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
 \epsfxsize=\dimen262
 \epsfysize=\dimen263
-) ("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count165
-\calc@Bcount=\count166
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count166
+\calc@Bcount=\count167
 \calc@Adimen=\dimen264
 \calc@Bdimen=\dimen265
 \calc@Askip=\skip57
 \calc@Bskip=\skip58
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count167
+\calc@Ccount=\count168
 \calc@Cskip=\skip59
-) ("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\capt-of\capt-of.st
-y"
+) ("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/capt-of\capt-of.s
+ty"
 Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
-) ("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\natbib\natbib.st
-y"
+) ("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/natbib\natbib.sty
+"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip60
 \bibsep=\skip61
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count168
+\c@NAT@ctr=\count169
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\enumitem\enumitem.
-sty"
-Package: enumitem 2019/06/20 v3.9 Customized lists
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/enumitem\enumitem.s
+ty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
 \labelindent=\skip62
 \enit@outerparindent=\dimen266
 \enit@toks=\toks45
-\enit@inbox=\box80
-\enit@count@id=\count169
-\enitdp@description=\count170
+\enit@inbox=\box81
+\enit@count@id=\count170
+\enitdp@description=\count171
 ) (configuration.tex
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouter
-themeshadow.sty"
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerouter
-themesplit.sty"))
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamerinner
-themerounded.sty")
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\beamer\beamercolor
-themerose.sty")) (Thesis_defense.aux)
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beameroutert
+hemeshadow.sty"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beameroutert
+hemesplit.sty"))
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamerinnert
+hemerounded.sty")
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/beamer\beamercolort
+hemerose.sty")) (Thesis_defense.aux)
 \openout1 = `Thesis_defense.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 89.
-LaTeX Font Info:    ... okay on input line 89.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 91.
+LaTeX Font Info:    ... okay on input line 91.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1055,28 +965,22 @@ LaTeX Font Info:    ... okay on input line 89.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
-ii"
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count171
+\scratchcounter=\count172
 \scratchdimen=\dimen267
-\scratchbox=\box81
-\nofMPsegments=\count172
-\nofMParguments=\count173
+\scratchbox=\box82
+\nofMPsegments=\count173
+\nofMParguments=\count174
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count174
+\MPscratchCnt=\count175
 \MPscratchDim=\dimen268
-\MPnumerator=\count175
-\makeMPintoPDFobject=\count176
+\MPnumerator=\count176
+\makeMPintoPDFobject=\count177
 \everyMPtoPDFconversion=\toks47
-)
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1086,137 +990,133 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring OFF on input line 89.
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+\AtBeginShipoutBox=\box83
+Package hyperref Info: Link coloring OFF on input line 91.
+("C:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count177
+\c@section@level=\count178
 )
-LaTeX Info: Redefining \ref on input line 89.
-LaTeX Info: Redefining \pageref on input line 89.
-LaTeX Info: Redefining \nameref on input line 89.
+LaTeX Info: Redefining \ref on input line 91.
+LaTeX Info: Redefining \pageref on input line 91.
+LaTeX Info: Redefining \nameref on input line 91.
 (Thesis_defense.out) (Thesis_defense.out)
 \@outlinefile=\write5
 \openout5 = `Thesis_defense.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 89.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 91.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 91.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 89.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 89.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 89.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 89.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 89.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 89.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 89.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 89.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 89.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 89.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 89.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 91.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 89.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 89.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 91.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 89.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 91.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 89.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 89.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 89.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 89.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 89.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 91.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 89.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 89.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 91.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 91.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 8
-9.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 9
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-89.
+91.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 89.
+ut line 91.
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-basic-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-bibliography-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-bibliography-dictionary-English.dict"
 Dictionary: translator-bibliography-dictionary, Language: English 
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-environment-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-environment-dictionary-English.dict"
 Dictionary: translator-environment-dictionary, Language: English 
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-months-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-months-dictionary-English.dict"
 Dictionary: translator-months-dictionary, Language: English 
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-numbers-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-numbers-dictionary-English.dict"
 Dictionary: translator-numbers-dictionary, Language: English 
 )
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\transla
-tor-theorem-dictionary-English.dict"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/translator\translat
+or-theorem-dictionary-English.dict"
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (Thesis_defense.nav)
-Overfull \hbox (7.79178pt too wide) in paragraph at lines 89--89
+Overfull \hbox (7.79178pt too wide) in paragraph at lines 91--91
 []|  []  
  []
 
-<Graphic/Logo_sorbonne.png, id=71, 199.74625pt x 80.3pt>
+<Graphic/Logo_sorbonne.png, id=75, 199.74625pt x 80.3pt>
 File: Graphic/Logo_sorbonne.png Graphic file (type png)
 <use Graphic/Logo_sorbonne.png>
-Package pdftex.def Info: Graphic/Logo_sorbonne.png  used on input line 105.
+Package pdftex.def Info: Graphic/Logo_sorbonne.png  used on input line 107.
 (pdftex.def)             Requested size: 106.16673pt x 42.67912pt.
-<Graphic/logoL2E.png, id=72, 158.5925pt x 124.465pt>
+<Graphic/logoL2E.png, id=76, 158.5925pt x 124.465pt>
 File: Graphic/logoL2E.png Graphic file (type png)
 <use Graphic/logoL2E.png>
-Package pdftex.def Info: Graphic/logoL2E.png  used on input line 105.
+Package pdftex.def Info: Graphic/logoL2E.png  used on input line 107.
 (pdftex.def)             Requested size: 54.38292pt x 42.67912pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 105.
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+LaTeX Font Info:    Try loading font information for U+msa on input line 107.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 105.
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+LaTeX Font Info:    Try loading font information for U+msb on input line 107.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 105.
+line 107.
 
-("C:\Users\tuana\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sansmathaccent\ot1
-mathkerncmss.fd"
+("C:\Users\Tuan-Anh Do\AppData\Roaming\MiKTeX\2.9\tex/latex/sansmathaccent\ot1m
+athkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 ) [1
 
-{C:/Users/tuana/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Graphic/L
-ogo_sorbonne.png> <./Graphic/logoL2E.png>] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 109--109
+{C:/Users/Tuan-Anh Do/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Gra
+phic/Logo_sorbonne.png> <./Graphic/logoL2E.png>] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 111--111
 [][][][]  
  []
 
@@ -1228,7 +1128,7 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [2
 
 ] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 114--114
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 116--116
 [][][][]  
  []
 
@@ -1243,13 +1143,13 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex (file ./Graphic/IllusIoT.pdf): PDF inclusion: found PD
 F version <1.6>, but at most version <1.5> allowed
-<Graphic/IllusIoT.pdf, id=155, 1225.86252pt x 874.2461pt>
+<Graphic/IllusIoT.pdf, id=162, 1225.86252pt x 874.2461pt>
 File: Graphic/IllusIoT.pdf Graphic file (type pdf)
 <use Graphic/IllusIoT.pdf>
-Package pdftex.def Info: Graphic/IllusIoT.pdf  used on input line 135.
+Package pdftex.def Info: Graphic/IllusIoT.pdf  used on input line 137.
 (pdftex.def)             Requested size: 219.37665pt x 156.4504pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 135--135
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 137--137
 [][][][]  
  []
 
@@ -1264,33 +1164,33 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 pdfTeX warning: pdflatex (file ./Graphic/01_iotnumber.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/01_iotnumber.pdf, id=185, 964.93849pt x 574.25589pt>
+<Graphic/01_iotnumber.pdf, id=194, 964.93849pt x 574.25589pt>
 File: Graphic/01_iotnumber.pdf Graphic file (type pdf)
 <use Graphic/01_iotnumber.pdf>
-Package pdftex.def Info: Graphic/01_iotnumber.pdf  used on input line 170.
+Package pdftex.def Info: Graphic/01_iotnumber.pdf  used on input line 172.
 (pdftex.def)             Requested size: 249.29027pt x 148.35666pt.
 
-Underfull \hbox (badness 1708) in paragraph at lines 170--170
+Underfull \hbox (badness 1708) in paragraph at lines 172--172
 []\OT1/cmss/m/n/8 IHS fore-cast. \OT1/cmss/m/it/8 IoT
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 170--170
+Underfull \hbox (badness 2237) in paragraph at lines 172--172
 \OT1/cmss/m/it/8 plat-forms: en-abling
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
 \OT1/cmss/m/it/8 the In-ter-net of
  []
 
 
-Overfull \hbox (4.06996pt too wide) in paragraph at lines 170--170
+Overfull \hbox (4.06996pt too wide) in paragraph at lines 172--172
  [][] 
  []
 
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 170--170
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 172--172
 [][][][]  
  []
 
@@ -1302,18 +1202,18 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [5
 
  <./Graphic/01_iotnumber.pdf>]
-<Graphic/01_illusmeeffect.pdf, id=216, 710.13603pt x 187.28871pt>
+<Graphic/01_illusmeeffect.pdf, id=223, 710.13603pt x 187.28871pt>
 File: Graphic/01_illusmeeffect.pdf Graphic file (type pdf)
 <use Graphic/01_illusmeeffect.pdf>
-Package pdftex.def Info: Graphic/01_illusmeeffect.pdf  used on input line 209.
+Package pdftex.def Info: Graphic/01_illusmeeffect.pdf  used on input line 211.
 (pdftex.def)             Requested size: 242.64111pt x 63.99167pt.
-<Graphic/01_MEcomposite.pdf, id=217, 794.4922pt x 388.81259pt>
+<Graphic/01_MEcomposite.pdf, id=224, 794.4922pt x 388.81259pt>
 File: Graphic/01_MEcomposite.pdf Graphic file (type pdf)
 <use Graphic/01_MEcomposite.pdf>
-Package pdftex.def Info: Graphic/01_MEcomposite.pdf  used on input line 209.
+Package pdftex.def Info: Graphic/01_MEcomposite.pdf  used on input line 211.
 (pdftex.def)             Requested size: 216.04953pt x 105.72833pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 209--209
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 211--211
 [][][][]  
  []
 
@@ -1325,22 +1225,16 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [6
 
  <./Graphic/01_illusmeeffect.pdf> <./Graphic/01_MEcomposite.pdf>]
+File: Graphic/01_illusmeeffect.pdf Graphic file (type pdf)
+<use Graphic/01_illusmeeffect.pdf>
+Package pdftex.def Info: Graphic/01_illusmeeffect.pdf  used on input line 211.
+(pdftex.def)             Requested size: 242.64111pt x 63.99167pt.
+File: Graphic/01_MEcomposite.pdf Graphic file (type pdf)
+<use Graphic/01_MEcomposite.pdf>
+Package pdftex.def Info: Graphic/01_MEcomposite.pdf  used on input line 211.
+(pdftex.def)             Requested size: 216.04953pt x 105.72833pt.
 
-pdfTeX warning: pdflatex (file ./Graphic/01_threetypecomposite.pdf): PDF inclus
-ion: found PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/01_threetypecomposite.pdf, id=283, 257.77837pt x 70.74931pt>
-File: Graphic/01_threetypecomposite.pdf Graphic file (type pdf)
-<use Graphic/01_threetypecomposite.pdf>
-Package pdftex.def Info: Graphic/01_threetypecomposite.pdf  used on input line 
-235.
-(pdftex.def)             Requested size: 329.06499pt x 90.32346pt.
-
-Underfull \hbox (badness 10000) detected at line 235
-[][]$[]$[][][][][][]
- []
-
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 235--235
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 211--211
 [][][][]  
  []
 
@@ -1351,32 +1245,17 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [7
 
- <./Graphic/01_threetypecomposite.pdf>]
+]
+File: Graphic/01_illusmeeffect.pdf Graphic file (type pdf)
+<use Graphic/01_illusmeeffect.pdf>
+Package pdftex.def Info: Graphic/01_illusmeeffect.pdf  used on input line 211.
+(pdftex.def)             Requested size: 242.64111pt x 63.99167pt.
+File: Graphic/01_MEcomposite.pdf Graphic file (type pdf)
+<use Graphic/01_MEcomposite.pdf>
+Package pdftex.def Info: Graphic/01_MEcomposite.pdf  used on input line 211.
+(pdftex.def)             Requested size: 216.04953pt x 105.72833pt.
 
-pdfTeX warning: pdflatex (file ./Graphic/01_energharveprinc.pdf): PDF inclusion
-: found PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/01_energharveprinc.pdf, id=432, 716.95753pt x 247.01886pt>
-File: Graphic/01_energharveprinc.pdf Graphic file (type pdf)
-<use Graphic/01_energharveprinc.pdf>
-Package pdftex.def Info: Graphic/01_energharveprinc.pdf  used on input line 259
-.
-(pdftex.def)             Requested size: 229.34785pt x 79.01749pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/01_2dmesh.pdf): PDF inclusion: found P
-DF version <1.6>, but at most version <1.5> allowed
-<Graphic/01_2dmesh.pdf, id=433, 371.29716pt x 239.47366pt>
-File: Graphic/01_2dmesh.pdf Graphic file (type pdf)
-<use Graphic/01_2dmesh.pdf>
-Package pdftex.def Info: Graphic/01_2dmesh.pdf  used on input line 259.
-(pdftex.def)             Requested size: 201.45496pt x 85.35904pt.
-<Graphic/01_2dresult.png, id=434, 154.26865pt x 124.61943pt>
-File: Graphic/01_2dresult.png Graphic file (type png)
-<use Graphic/01_2dresult.png>
-Package pdftex.def Info: Graphic/01_2dresult.png  used on input line 259.
-(pdftex.def)             Requested size: 117.51373pt x 85.35808pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 259--259
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 211--211
 [][][][]  
  []
 
@@ -1387,20 +1266,23 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [8
 
- <./Graphic/01_energharveprinc.pdf> <./Graphic/01_2dmesh.pdf> <./Graphic/01_2dr
-esult.png>]
-<Graphic/01_photoMEcircle.png, id=474, 987.69pt x 746.79pt>
-File: Graphic/01_photoMEcircle.png Graphic file (type png)
-<use Graphic/01_photoMEcircle.png>
-Package pdftex.def Info: Graphic/01_photoMEcircle.png  used on input line 281.
-(pdftex.def)             Requested size: 139.33348pt x 105.34753pt.
-<Graphic/01_geoMEcircu.pdf, id=475, 426.8748pt x 267.1581pt>
-File: Graphic/01_geoMEcircu.pdf Graphic file (type pdf)
-<use Graphic/01_geoMEcircu.pdf>
-Package pdftex.def Info: Graphic/01_geoMEcircu.pdf  used on input line 281.
-(pdftex.def)             Requested size: 166.19351pt x 104.01187pt.
+]
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 281--281
+pdfTeX warning: pdflatex (file ./Graphic/01_threetypecomposite.pdf): PDF inclus
+ion: found PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/01_threetypecomposite.pdf, id=311, 257.77837pt x 70.74931pt>
+File: Graphic/01_threetypecomposite.pdf Graphic file (type pdf)
+<use Graphic/01_threetypecomposite.pdf>
+Package pdftex.def Info: Graphic/01_threetypecomposite.pdf  used on input line 
+237.
+(pdftex.def)             Requested size: 329.06499pt x 90.32346pt.
+
+Underfull \hbox (badness 10000) detected at line 237
+[][]$[]$[][][][][][]
+ []
+
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 237--237
 [][][][]  
  []
 
@@ -1411,9 +1293,32 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [9
 
- <./Graphic/01_photoMEcircle.png> <./Graphic/01_geoMEcircu.pdf>] (Thesis_defens
-e.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 288--288
+ <./Graphic/01_threetypecomposite.pdf>]
+
+pdfTeX warning: pdflatex (file ./Graphic/01_energharveprinc.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/01_energharveprinc.pdf, id=459, 716.95753pt x 247.01886pt>
+File: Graphic/01_energharveprinc.pdf Graphic file (type pdf)
+<use Graphic/01_energharveprinc.pdf>
+Package pdftex.def Info: Graphic/01_energharveprinc.pdf  used on input line 264
+.
+(pdftex.def)             Requested size: 229.34785pt x 79.01749pt.
+
+
+pdfTeX warning: pdflatex (file ./Graphic/01_2dmesh.pdf): PDF inclusion: found P
+DF version <1.6>, but at most version <1.5> allowed
+<Graphic/01_2dmesh.pdf, id=460, 371.29716pt x 239.47366pt>
+File: Graphic/01_2dmesh.pdf Graphic file (type pdf)
+<use Graphic/01_2dmesh.pdf>
+Package pdftex.def Info: Graphic/01_2dmesh.pdf  used on input line 264.
+(pdftex.def)             Requested size: 201.45496pt x 85.35904pt.
+<Graphic/01_2dresult.png, id=461, 154.26865pt x 124.61943pt>
+File: Graphic/01_2dresult.png Graphic file (type png)
+<use Graphic/01_2dresult.png>
+Package pdftex.def Info: Graphic/01_2dresult.png  used on input line 264.
+(pdftex.def)             Requested size: 117.51373pt x 85.35808pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 264--264
 [][][][]  
  []
 
@@ -1424,26 +1329,20 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [10
 
-]
+ <./Graphic/01_energharveprinc.pdf> <./Graphic/01_2dmesh.pdf> <./Graphic/01_2dr
+esult.png>]
+<Graphic/01_photoMEcircle.png, id=501, 987.69pt x 746.79pt>
+File: Graphic/01_photoMEcircle.png Graphic file (type png)
+<use Graphic/01_photoMEcircle.png>
+Package pdftex.def Info: Graphic/01_photoMEcircle.png  used on input line 286.
+(pdftex.def)             Requested size: 139.33348pt x 105.34753pt.
+<Graphic/01_geoMEcircu.pdf, id=502, 426.8748pt x 267.1581pt>
+File: Graphic/01_geoMEcircu.pdf Graphic file (type pdf)
+<use Graphic/01_geoMEcircu.pdf>
+Package pdftex.def Info: Graphic/01_geoMEcircu.pdf  used on input line 286.
+(pdftex.def)             Requested size: 166.19351pt x 104.01187pt.
 
-pdfTeX warning: pdflatex (file ./Graphic/02_IllusMEmeasu.pdf): PDF inclusion: f
-ound PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/02_IllusMEmeasu.pdf, id=536, 560.64056pt x 459.8229pt>
-File: Graphic/02_IllusMEmeasu.pdf Graphic file (type pdf)
-<use Graphic/02_IllusMEmeasu.pdf>
-Package pdftex.def Info: Graphic/02_IllusMEmeasu.pdf  used on input line 309.
-(pdftex.def)             Requested size: 166.19351pt x 136.3061pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/02_geo.pdf): PDF inclusion: found PDF 
-version <1.7>, but at most version <1.5> allowed
-<Graphic/02_geo.pdf, id=537, 325.77106pt x 243.66333pt>
-File: Graphic/02_geo.pdf Graphic file (type pdf)
-<use Graphic/02_geo.pdf>
-Package pdftex.def Info: Graphic/02_geo.pdf  used on input line 309.
-(pdftex.def)             Requested size: 166.19351pt x 124.30754pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 309--309
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 286--286
 [][][][]  
  []
 
@@ -1454,8 +1353,9 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [11
 
- <./Graphic/02_IllusMEmeasu.pdf> <./Graphic/02_geo.pdf>]
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 357--357
+ <./Graphic/01_photoMEcircle.png> <./Graphic/01_geoMEcircu.pdf>] (Thesis_defens
+e.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 293--293
 [][][][]  
  []
 
@@ -1467,13 +1367,21 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [12
 
 ]
-<Graphic/02_illusbdc.pdf, id=579, 634.0823pt x 358.1119pt>
-File: Graphic/02_illusbdc.pdf Graphic file (type pdf)
-<use Graphic/02_illusbdc.pdf>
-Package pdftex.def Info: Graphic/02_illusbdc.pdf  used on input line 397.
-(pdftex.def)             Requested size: 239.21584pt x 135.10034pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 397--397
+pdfTeX warning: pdflatex (file ./Graphic/02_IllusMEmeasu.pdf): PDF inclusion: f
+ound PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/02_IllusMEmeasu.pdf, id=564, 560.64056pt x 459.8229pt>
+File: Graphic/02_IllusMEmeasu.pdf Graphic file (type pdf)
+<use Graphic/02_IllusMEmeasu.pdf>
+Package pdftex.def Info: Graphic/02_IllusMEmeasu.pdf  used on input line 314.
+(pdftex.def)             Requested size: 149.57314pt x 122.67339pt.
+<Graphic/02_biaspoint2.pdf, id=565, 216.81pt x 131.53139pt>
+File: Graphic/02_biaspoint2.pdf Graphic file (type pdf)
+<use Graphic/02_biaspoint2.pdf>
+Package pdftex.def Info: Graphic/02_biaspoint2.pdf  used on input line 314.
+(pdftex.def)             Requested size: 182.81389pt x 110.91309pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 314--314
 [][][][]  
  []
 
@@ -1484,19 +1392,10 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [13
 
- <./Graphic/02_illusbdc.pdf>]
-<Graphic/02_biaspoint2.pdf, id=612, 216.81pt x 131.53139pt>
-File: Graphic/02_biaspoint2.pdf Graphic file (type pdf)
-<use Graphic/02_biaspoint2.pdf>
-Package pdftex.def Info: Graphic/02_biaspoint2.pdf  used on input line 429.
-(pdftex.def)             Requested size: 239.21584pt x 145.1325pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 429--429
+ <./Graphic/02_IllusMEmeasu.pdf> <./Graphic/02_biaspoint2.pdf>] (Thesis_defense
+.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 316--316
 [][][][]  
- []
-
-
-Overfull \vbox (5.33075pt too high) detected at line 429
  []
 
 
@@ -1506,34 +1405,9 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [14
 
- <./Graphic/02_biaspoint2.pdf>]
-<Graphic/02_MHterfenol.pdf, id=648, 400.14264pt x 348.93362pt>
-File: Graphic/02_MHterfenol.pdf Graphic file (type pdf)
-<use Graphic/02_MHterfenol.pdf>
-Package pdftex.def Info: Graphic/02_MHterfenol.pdf  used on input line 460.
-(pdftex.def)             Requested size: 166.19351pt x 144.92189pt.
-<Graphic/02_SHterfenol.pdf, id=649, 410.26566pt x 369.17924pt>
-File: Graphic/02_SHterfenol.pdf Graphic file (type pdf)
-<use Graphic/02_SHterfenol.pdf>
-Package pdftex.def Info: Graphic/02_SHterfenol.pdf  used on input line 460.
-(pdftex.def)             Requested size: 159.47722pt x 143.50613pt.
-
-Overfull \hbox (4.30331pt too wide) detected at line 460
-\OML/cmm/m/it/10.95  \OT1/cmss/m/n/10.95 = []
- []
-
-
-Overfull \hbox (2.22324pt too wide) in paragraph at lines 460--460
-[][] 
- []
-
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 460--460
+]
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 364--364
 [][][][]  
- []
-
-
-Overfull \vbox (5.90068pt too high) detected at line 460
  []
 
 
@@ -1543,14 +1417,12 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [15
 
- <./Graphic/02_MHterfenol.pdf> <./Graphic/02_SHterfenol.pdf>]
-<Graphic/02_piecewise.pdf, id=675, 343.57457pt x 292.9605pt>
-File: Graphic/02_piecewise.pdf Graphic file (type pdf)
-<use Graphic/02_piecewise.pdf>
-Package pdftex.def Info: Graphic/02_piecewise.pdf  used on input line 512.
-(pdftex.def)             Requested size: 159.47722pt x 135.98381pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 512--512
+]
+LaTeX Font Info:    Try loading font information for U+euf on input line 397.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\ueuf.fd"
+File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
+)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 397--397
 [][][][]  
  []
 
@@ -1561,8 +1433,17 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [16
 
- <./Graphic/02_piecewise.pdf>] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 515--515
+]
+
+pdfTeX warning: pdflatex (file ./Graphic/02_illusbdcv2.pdf): PDF inclusion: fou
+nd PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/02_illusbdcv2.pdf, id=660, 547.75227pt x 300.03693pt>
+File: Graphic/02_illusbdcv2.pdf Graphic file (type pdf)
+<use Graphic/02_illusbdcv2.pdf>
+Package pdftex.def Info: Graphic/02_illusbdcv2.pdf  used on input line 438.
+(pdftex.def)             Requested size: 239.21584pt x 131.03233pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 438--438
 [][][][]  
  []
 
@@ -1573,9 +1454,18 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [17
 
-]
+ <./Graphic/02_illusbdcv2.pdf>]
+Overfull \hbox (2.55907pt too wide) in paragraph at lines 546--546
+[][] 
+ []
+
+
 Overfull \hbox (4.69994pt too wide) in paragraph at lines 546--546
 [][][][]  
+ []
+
+
+Overfull \vbox (1.43474pt too high) detected at line 546
  []
 
 
@@ -1586,17 +1476,18 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [18
 
 ]
-Overfull \hbox (16.7705pt too wide) detected at line 577
-\OT1/cmss/m/n/10 [\U/msb/m/n/10 K\OT1/cmss/m/n/10 ] = []
+<Graphic/02_piecewise.pdf, id=703, 343.57457pt x 292.9605pt>
+File: Graphic/02_piecewise.pdf Graphic file (type pdf)
+<use Graphic/02_piecewise.pdf>
+Package pdftex.def Info: Graphic/02_piecewise.pdf  used on input line 599.
+(pdftex.def)             Requested size: 159.47722pt x 135.98381pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 599--599
+[][][][]  
  []
 
-File: Graphic/01_geoMEcircu.pdf Graphic file (type pdf)
-<use Graphic/01_geoMEcircu.pdf>
-Package pdftex.def Info: Graphic/01_geoMEcircu.pdf  used on input line 577.
-(pdftex.def)             Requested size: 127.57983pt x 79.84637pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 577--577
-[][][][]  
+Overfull \vbox (3.45477pt too high) detected at line 599
  []
 
 
@@ -1606,8 +1497,8 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [19
 
-] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 580--580
+ <./Graphic/02_piecewise.pdf>] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 602--602
 [][][][]  
  []
 
@@ -1619,40 +1510,8 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [20
 
 ]
-Underfull \hbox (badness 2245) in paragraph at lines 617--617
-\OT1/cmss/m/it/8 ne-to-elec-tric prop-er-ties in
- []
-
-
-Overfull \hbox (3.0627pt too wide) in paragraph at lines 617--617
-[][] 
- []
-
-
-
-pdfTeX warning: pdflatex (file ./Graphic/03_circuitTT.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/03_circuitTT.pdf, id=756, 294.1394pt x 167.23279pt>
-File: Graphic/03_circuitTT.pdf Graphic file (type pdf)
-<use Graphic/03_circuitTT.pdf>
-Package pdftex.def Info: Graphic/03_circuitTT.pdf  used on input line 617.
-(pdftex.def)             Requested size: 148.0657pt x 85.35902pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/03_circuitLT.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/03_circuitLT.pdf, id=757, 297.43523pt x 158.51822pt>
-File: Graphic/03_circuitLT.pdf Graphic file (type pdf)
-<use Graphic/03_circuitLT.pdf>
-Package pdftex.def Info: Graphic/03_circuitLT.pdf  used on input line 617.
-(pdftex.def)             Requested size: 148.06824pt x 85.35909pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 617--617
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 633--633
 [][][][]  
- []
-
-
-Overfull \vbox (3.03055pt too high) detected at line 617
  []
 
 
@@ -1662,32 +1521,17 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [21
 
- <./Graphic/03_circuitTT.pdf> <./Graphic/03_circuitLT.pdf
-
-pdfTeX warning: pdflatex (file ./Graphic/03_circuitLT.pdf): PDF inclusion: mult
-iple pdfs with page group included in a single page
->]
-<Graphic/result_nonlinear.pdf, id=805, 622.3024pt x 581.57191pt>
-File: Graphic/result_nonlinear.pdf Graphic file (type pdf)
-<use Graphic/result_nonlinear.pdf>
-Package pdftex.def Info: Graphic/result_nonlinear.pdf  used on input line 641.
-(pdftex.def)             Requested size: 182.0868pt x 124.58293pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/03_result_expe.pdf): PDF inclusion: fo
-und PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_result_expe.pdf, id=806, 243.07373pt x 187.53162pt>
-File: Graphic/03_result_expe.pdf Graphic file (type pdf)
-<use Graphic/03_result_expe.pdf>
-Package pdftex.def Info: Graphic/03_result_expe.pdf  used on input line 641.
-(pdftex.def)             Requested size: 168.08081pt x 115.00075pt.
-
-Overfull \hbox (8.3944pt too wide) in paragraph at lines 641--641
-[]  
+]
+Overfull \hbox (16.7705pt too wide) detected at line 664
+\OT1/cmss/m/n/10 [\U/msb/m/n/10 K\OT1/cmss/m/n/10 ] = []
  []
 
+File: Graphic/01_geoMEcircu.pdf Graphic file (type pdf)
+<use Graphic/01_geoMEcircu.pdf>
+Package pdftex.def Info: Graphic/01_geoMEcircu.pdf  used on input line 664.
+(pdftex.def)             Requested size: 127.57983pt x 79.84637pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 641--641
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 664--664
 [][][][]  
  []
 
@@ -1698,24 +1542,8 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [22
 
- <./Graphic/result_nonlinear.pdf> <./Graphic/03_result_expe.pdf>]
-<Graphic/TT_compare_eddy.pdf, id=891, 689.56363pt x 360.15398pt>
-File: Graphic/TT_compare_eddy.pdf Graphic file (type pdf)
-<use Graphic/TT_compare_eddy.pdf>
-Package pdftex.def Info: Graphic/TT_compare_eddy.pdf  used on input line 673.
-(pdftex.def)             Requested size: 178.80882pt x 88.49953pt.
-<Graphic/LT_compare_eddy.pdf, id=892, 701.86226pt x 368.0605pt>
-File: Graphic/LT_compare_eddy.pdf Graphic file (type pdf)
-<use Graphic/LT_compare_eddy.pdf>
-Package pdftex.def Info: Graphic/LT_compare_eddy.pdf  used on input line 673.
-(pdftex.def)             Requested size: 178.8065pt x 88.49919pt.
-<Graphic/03_potencircle.png, id=893, 425.33907pt x 424.58624pt>
-File: Graphic/03_potencircle.png Graphic file (type png)
-<use Graphic/03_potencircle.png>
-Package pdftex.def Info: Graphic/03_potencircle.png  used on input line 673.
-(pdftex.def)             Requested size: 103.44124pt x 103.2568pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 673--673
+] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 667--667
 [][][][]  
  []
 
@@ -1726,29 +1554,31 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [23
 
- <./Graphic/TT_compare_eddy.pdf> <./Graphic/LT_compare_eddy.pdf> <./Graphic/03_
-potencircle.png>]
-File: Graphic/TT_compare_eddy.pdf Graphic file (type pdf)
-<use Graphic/TT_compare_eddy.pdf>
-Package pdftex.def Info: Graphic/TT_compare_eddy.pdf  used on input line 703.
-(pdftex.def)             Requested size: 173.49527pt x 85.87268pt.
-<Graphic/eddy_1khz.pdf, id=943, 532.87682pt x 530.21991pt>
-File: Graphic/eddy_1khz.pdf Graphic file (type pdf)
-<use Graphic/eddy_1khz.pdf>
-Package pdftex.def Info: Graphic/eddy_1khz.pdf  used on input line 703.
-(pdftex.def)             Requested size: 103.39424pt x 103.38841pt.
-<Graphic/eddy_10khz.pdf, id=944, 537.1025pt x 542.031pt>
-File: Graphic/eddy_10khz.pdf Graphic file (type pdf)
-<use Graphic/eddy_10khz.pdf>
-Package pdftex.def Info: Graphic/eddy_10khz.pdf  used on input line 703.
-(pdftex.def)             Requested size: 97.05946pt x 97.05685pt.
-<Graphic/eddy_100khz.pdf, id=945, 531.54848pt x 544.83653pt>
-File: Graphic/eddy_100khz.pdf Graphic file (type pdf)
-<use Graphic/eddy_100khz.pdf>
-Package pdftex.def Info: Graphic/eddy_100khz.pdf  used on input line 703.
-(pdftex.def)             Requested size: 97.06152pt x 97.06041pt.
+]
+Underfull \hbox (badness 10000) detected at line 704
+[][]$[]$[][][][][][]
+ []
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 703--703
+
+
+pdfTeX warning: pdflatex (file ./Graphic/03_circuitTT.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/03_circuitTT.pdf, id=785, 294.1394pt x 167.23279pt>
+File: Graphic/03_circuitTT.pdf Graphic file (type pdf)
+<use Graphic/03_circuitTT.pdf>
+Package pdftex.def Info: Graphic/03_circuitTT.pdf  used on input line 704.
+(pdftex.def)             Requested size: 148.0657pt x 85.35902pt.
+
+
+pdfTeX warning: pdflatex (file ./Graphic/03_circuitLT.pdf): PDF inclusion: foun
+d PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/03_circuitLT.pdf, id=786, 297.43523pt x 158.51822pt>
+File: Graphic/03_circuitLT.pdf Graphic file (type pdf)
+<use Graphic/03_circuitLT.pdf>
+Package pdftex.def Info: Graphic/03_circuitLT.pdf  used on input line 704.
+(pdftex.def)             Requested size: 148.06824pt x 85.35909pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 704--704
 [][][][]  
  []
 
@@ -1759,20 +1589,32 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [24
 
- <./Graphic/eddy_1khz.pdf> <./Graphic/eddy_10khz.pdf> <./Graphic/eddy_100khz.pd
-f>]
-<Graphic/TT_compare_power.pdf, id=974, 752.8125pt x 301.125pt>
-File: Graphic/TT_compare_power.pdf Graphic file (type pdf)
-<use Graphic/TT_compare_power.pdf>
-Package pdftex.def Info: Graphic/TT_compare_power.pdf  used on input line 726.
-(pdftex.def)             Requested size: 178.8073pt x 71.52252pt.
-<Graphic/LT_compare_power.pdf, id=975, 752.8125pt x 301.125pt>
-File: Graphic/LT_compare_power.pdf Graphic file (type pdf)
-<use Graphic/LT_compare_power.pdf>
-Package pdftex.def Info: Graphic/LT_compare_power.pdf  used on input line 726.
-(pdftex.def)             Requested size: 178.8073pt x 71.52252pt.
+ <./Graphic/03_circuitTT.pdf> <./Graphic/03_circuitLT.pdf
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 726--726
+pdfTeX warning: pdflatex (file ./Graphic/03_circuitLT.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+<Graphic/result_nonlinear.pdf, id=834, 622.3024pt x 581.57191pt>
+File: Graphic/result_nonlinear.pdf Graphic file (type pdf)
+<use Graphic/result_nonlinear.pdf>
+Package pdftex.def Info: Graphic/result_nonlinear.pdf  used on input line 728.
+(pdftex.def)             Requested size: 182.0868pt x 124.58293pt.
+
+
+pdfTeX warning: pdflatex (file ./Graphic/03_result_expe.pdf): PDF inclusion: fo
+und PDF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_result_expe.pdf, id=835, 243.07373pt x 187.53162pt>
+File: Graphic/03_result_expe.pdf Graphic file (type pdf)
+<use Graphic/03_result_expe.pdf>
+Package pdftex.def Info: Graphic/03_result_expe.pdf  used on input line 728.
+(pdftex.def)             Requested size: 168.08081pt x 115.00075pt.
+
+Overfull \hbox (8.3944pt too wide) in paragraph at lines 728--728
+[]  
+ []
+
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 728--728
 [][][][]  
  []
 
@@ -1783,9 +1625,29 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [25
 
- <./Graphic/TT_compare_power.pdf> <./Graphic/LT_compare_power.pdf>] (Thesis_def
-ense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 729--729
+ <./Graphic/result_nonlinear.pdf> <./Graphic/03_result_expe.pdf>]
+<Graphic/TT_compare_eddy.pdf, id=921, 689.56363pt x 360.15398pt>
+File: Graphic/TT_compare_eddy.pdf Graphic file (type pdf)
+<use Graphic/TT_compare_eddy.pdf>
+Package pdftex.def Info: Graphic/TT_compare_eddy.pdf  used on input line 765.
+(pdftex.def)             Requested size: 178.80882pt x 88.49953pt.
+<Graphic/LT_compare_eddy.pdf, id=922, 701.86226pt x 368.0605pt>
+File: Graphic/LT_compare_eddy.pdf Graphic file (type pdf)
+<use Graphic/LT_compare_eddy.pdf>
+Package pdftex.def Info: Graphic/LT_compare_eddy.pdf  used on input line 765.
+(pdftex.def)             Requested size: 178.8065pt x 88.49919pt.
+<Graphic/eddy_10khz.pdf, id=923, 537.1025pt x 542.031pt>
+File: Graphic/eddy_10khz.pdf Graphic file (type pdf)
+<use Graphic/eddy_10khz.pdf>
+Package pdftex.def Info: Graphic/eddy_10khz.pdf  used on input line 765.
+(pdftex.def)             Requested size: 99.7171pt x 100.6298pt.
+<Graphic/eddy_100khz.pdf, id=924, 531.54848pt x 544.83653pt>
+File: Graphic/eddy_100khz.pdf Graphic file (type pdf)
+<use Graphic/eddy_100khz.pdf>
+Package pdftex.def Info: Graphic/eddy_100khz.pdf  used on input line 765.
+(pdftex.def)             Requested size: 99.7171pt x 102.20648pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 765--765
 [][][][]  
  []
 
@@ -1796,14 +1658,20 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [26
 
-]
-<Graphic/03_georecta.pdf, id=1043, 655.72371pt x 250.30313pt>
-File: Graphic/03_georecta.pdf Graphic file (type pdf)
-<use Graphic/03_georecta.pdf>
-Package pdftex.def Info: Graphic/03_georecta.pdf  used on input line 738.
-(pdftex.def)             Requested size: 332.38704pt x 126.87758pt.
+ <./Graphic/TT_compare_eddy.pdf> <./Graphic/LT_compare_eddy.pdf> <./Graphic/edd
+y_10khz.pdf> <./Graphic/eddy_100khz.pdf>]
+<Graphic/TT_compare_power.pdf, id=985, 655.75066pt x 287.23564pt>
+File: Graphic/TT_compare_power.pdf Graphic file (type pdf)
+<use Graphic/TT_compare_power.pdf>
+Package pdftex.def Info: Graphic/TT_compare_power.pdf  used on input line 819.
+(pdftex.def)             Requested size: 177.0341pt x 77.54588pt.
+<Graphic/LT_compare_power.pdf, id=986, 673.8997pt x 291.65564pt>
+File: Graphic/LT_compare_power.pdf Graphic file (type pdf)
+<use Graphic/LT_compare_power.pdf>
+Package pdftex.def Info: Graphic/LT_compare_power.pdf  used on input line 819.
+(pdftex.def)             Requested size: 177.0341pt x 76.61638pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 738--738
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 819--819
 [][][][]  
  []
 
@@ -1814,15 +1682,9 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [27
 
- <./Graphic/03_georecta.pdf>]
-<Graphic/03_volta_bias_recta.pdf, id=1072, 559.5279pt x 438.23224pt>
-File: Graphic/03_volta_bias_recta.pdf Graphic file (type pdf)
-<use Graphic/03_volta_bias_recta.pdf>
-Package pdftex.def Info: Graphic/03_volta_bias_recta.pdf  used on input line 75
-4.
-(pdftex.def)             Requested size: 229.34785pt x 179.62956pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 754--754
+ <./Graphic/TT_compare_power.pdf> <./Graphic/LT_compare_power.pdf>] (Thesis_def
+ense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 822--822
 [][][][]  
  []
 
@@ -1833,16 +1695,24 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [28
 
- <./Graphic/03_volta_bias_recta.pdf>]
-<Graphic/03_volta_dyna_recta.pdf, id=1085, 558.01454pt x 446.76208pt>
-File: Graphic/03_volta_dyna_recta.pdf Graphic file (type pdf)
-<use Graphic/03_volta_dyna_recta.pdf>
-Package pdftex.def Info: Graphic/03_volta_dyna_recta.pdf  used on input line 77
-0.
-(pdftex.def)             Requested size: 229.34785pt x 183.62355pt.
+]
+<Graphic/03_MEsample.png, id=1054, 607.26875pt x 139.52126pt>
+File: Graphic/03_MEsample.png Graphic file (type png)
+<use Graphic/03_MEsample.png>
+Package pdftex.def Info: Graphic/03_MEsample.png  used on input line 834.
+(pdftex.def)             Requested size: 265.23442pt x 60.9382pt.
+<Graphic/03_georecta.pdf, id=1055, 655.72371pt x 250.30313pt>
+File: Graphic/03_georecta.pdf Graphic file (type pdf)
+<use Graphic/03_georecta.pdf>
+Package pdftex.def Info: Graphic/03_georecta.pdf  used on input line 834.
+(pdftex.def)             Requested size: 265.23442pt x 101.24234pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 770--770
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 834--834
 [][][][]  
+ []
+
+
+Overfull \vbox (12.36351pt too high) detected at line 834
  []
 
 
@@ -1852,21 +1722,15 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [29
 
- <./Graphic/03_volta_dyna_recta.pdf>]
-<Graphic/03_MErectamagnefluxXZview.png, id=1098, 439.6425pt x 312.41719pt>
-File: Graphic/03_MErectamagnefluxXZview.png Graphic file (type png)
-<use Graphic/03_MErectamagnefluxXZview.png>
-Package pdftex.def Info: Graphic/03_MErectamagnefluxXZview.png  used on input l
-ine 791.
-(pdftex.def)             Requested size: 166.19379pt x 134.29863pt.
-<Graphic/03_MErectaelecpoten3d.png, id=1099, 626.34pt x 376.40625pt>
-File: Graphic/03_MErectaelecpoten3d.png Graphic file (type png)
-<use Graphic/03_MErectaelecpoten3d.png>
-Package pdftex.def Info: Graphic/03_MErectaelecpoten3d.png  used on input line 
-791.
-(pdftex.def)             Requested size: 166.18956pt x 134.3pt.
+ <./Graphic/03_MEsample.png> <./Graphic/03_georecta.pdf>]
+<Graphic/03_volta_bias_recta.pdf, id=1085, 559.5279pt x 438.23224pt>
+File: Graphic/03_volta_bias_recta.pdf Graphic file (type pdf)
+<use Graphic/03_volta_bias_recta.pdf>
+Package pdftex.def Info: Graphic/03_volta_bias_recta.pdf  used on input line 85
+0.
+(pdftex.def)             Requested size: 229.34785pt x 179.62956pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 791--791
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 850--850
 [][][][]  
  []
 
@@ -1877,23 +1741,15 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [30
 
- <./Graphic/03_MErectamagnefluxXZview.png> <./Graphic/03_MErectaelecpoten3d.png
->]
+ <./Graphic/03_volta_bias_recta.pdf>]
+<Graphic/03_volta_dyna_recta.pdf, id=1098, 558.01454pt x 446.76208pt>
+File: Graphic/03_volta_dyna_recta.pdf Graphic file (type pdf)
+<use Graphic/03_volta_dyna_recta.pdf>
+Package pdftex.def Info: Graphic/03_volta_dyna_recta.pdf  used on input line 86
+6.
+(pdftex.def)             Requested size: 229.34785pt x 183.62355pt.
 
-pdfTeX warning: pdflatex (file ./Graphic/03_LTref1.pdf): PDF inclusion: found P
-DF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_LTref1.pdf, id=1110, 165.0988pt x 109.63559pt>
-File: Graphic/03_LTref1.pdf Graphic file (type pdf)
-<use Graphic/03_LTref1.pdf>
-Package pdftex.def Info: Graphic/03_LTref1.pdf  used on input line 805.
-(pdftex.def)             Requested size: 182.81389pt x 121.4025pt.
-<Graphic/03_geo_B.png, id=1111, 266.49562pt x 469.00218pt>
-File: Graphic/03_geo_B.png Graphic file (type png)
-<use Graphic/03_geo_B.png>
-Package pdftex.def Info: Graphic/03_geo_B.png  used on input line 805.
-(pdftex.def)             Requested size: 83.09676pt x 146.24078pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 805--805
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 866--866
 [][][][]  
  []
 
@@ -1904,22 +1760,21 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [31
 
- <./Graphic/03_LTref1.pdf> <./Graphic/03_geo_B.png>]
-File: Graphic/03_LTref1.pdf Graphic file (type pdf)
-<use Graphic/03_LTref1.pdf>
-Package pdftex.def Info: Graphic/03_LTref1.pdf  used on input line 830.
-(pdftex.def)             Requested size: 164.20784pt x 109.04645pt.
-File: Graphic/03_geo_B.png Graphic file (type png)
-<use Graphic/03_geo_B.png>
-Package pdftex.def Info: Graphic/03_geo_B.png  used on input line 830.
-(pdftex.def)             Requested size: 69.33356pt x 122.0164pt.
-<Graphic/03_geo_Iform.png, id=1168, 752.8125pt x 677.53125pt>
-File: Graphic/03_geo_Iform.png Graphic file (type png)
-<use Graphic/03_geo_Iform.png>
-Package pdftex.def Info: Graphic/03_geo_Iform.png  used on input line 830.
-(pdftex.def)             Requested size: 127.72029pt x 114.941pt.
+ <./Graphic/03_volta_dyna_recta.pdf>]
+<Graphic/03_MErectamagnefluxXZview.png, id=1112, 439.6425pt x 312.41719pt>
+File: Graphic/03_MErectamagnefluxXZview.png Graphic file (type png)
+<use Graphic/03_MErectamagnefluxXZview.png>
+Package pdftex.def Info: Graphic/03_MErectamagnefluxXZview.png  used on input l
+ine 887.
+(pdftex.def)             Requested size: 166.19379pt x 134.29863pt.
+<Graphic/03_MErectaelecpoten3d.png, id=1113, 626.34pt x 376.40625pt>
+File: Graphic/03_MErectaelecpoten3d.png Graphic file (type png)
+<use Graphic/03_MErectaelecpoten3d.png>
+Package pdftex.def Info: Graphic/03_MErectaelecpoten3d.png  used on input line 
+887.
+(pdftex.def)             Requested size: 166.18956pt x 134.3pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 830--830
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 887--887
 [][][][]  
  []
 
@@ -1930,26 +1785,23 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [32
 
- <./Graphic/03_geo_Iform.png (PNG copy)>]
+ <./Graphic/03_MErectamagnefluxXZview.png> <./Graphic/03_MErectaelecpoten3d.png
+>]
 
-pdfTeX warning: pdflatex (file ./Graphic/03_rectavoltage.pdf): PDF inclusion: f
-ound PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_rectavoltage.pdf, id=1179, 345.41206pt x 244.29268pt>
-File: Graphic/03_rectavoltage.pdf Graphic file (type pdf)
-<use Graphic/03_rectavoltage.pdf>
-Package pdftex.def Info: Graphic/03_rectavoltage.pdf  used on input line 854.
-(pdftex.def)             Requested size: 178.8073pt x 126.46259pt.
+pdfTeX warning: pdflatex (file ./Graphic/03_LTref1.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_LTref1.pdf, id=1124, 165.0988pt x 109.63559pt>
+File: Graphic/03_LTref1.pdf Graphic file (type pdf)
+<use Graphic/03_LTref1.pdf>
+Package pdftex.def Info: Graphic/03_LTref1.pdf  used on input line 901.
+(pdftex.def)             Requested size: 182.81389pt x 121.4025pt.
+<Graphic/03_geo_B.png, id=1125, 266.49562pt x 469.00218pt>
+File: Graphic/03_geo_B.png Graphic file (type png)
+<use Graphic/03_geo_B.png>
+Package pdftex.def Info: Graphic/03_geo_B.png  used on input line 901.
+(pdftex.def)             Requested size: 83.09676pt x 146.24078pt.
 
-
-pdfTeX warning: pdflatex (file ./Graphic/03_rectapower.pdf): PDF inclusion: fou
-nd PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_rectapower.pdf, id=1180, 350.79524pt x 243.58258pt>
-File: Graphic/03_rectapower.pdf Graphic file (type pdf)
-<use Graphic/03_rectapower.pdf>
-Package pdftex.def Info: Graphic/03_rectapower.pdf  used on input line 854.
-(pdftex.def)             Requested size: 178.8073pt x 124.16228pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 854--854
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 901--901
 [][][][]  
  []
 
@@ -1960,37 +1812,26 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [33
 
- <./Graphic/03_rectavoltage.pdf> <./Graphic/03_rectapower.pdf>]
+ <./Graphic/03_LTref1.pdf> <./Graphic/03_geo_B.png>]
 
-pdfTeX warning: pdflatex (file ./Graphic/03_rectavoltage_w.pdf): PDF inclusion:
- found PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_rectavoltage_w.pdf, id=1227, 384.43625pt x 255.95625pt>
-File: Graphic/03_rectavoltage_w.pdf Graphic file (type pdf)
-<use Graphic/03_rectavoltage_w.pdf>
-Package pdftex.def Info: Graphic/03_rectavoltage_w.pdf  used on input line 875.
-
-(pdftex.def)             Requested size: 166.484pt x 110.84796pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/03_rectafrequency_w.pdf): PDF inclusio
-n: found PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_rectafrequency_w.pdf, id=1228, 384.43625pt x 255.95625pt>
-File: Graphic/03_rectafrequency_w.pdf Graphic file (type pdf)
-<use Graphic/03_rectafrequency_w.pdf>
-Package pdftex.def Info: Graphic/03_rectafrequency_w.pdf  used on input line 87
-5.
-(pdftex.def)             Requested size: 166.484pt x 110.84796pt.
-
-
-pdfTeX warning: pdflatex (file ./Graphic/03_rectapower_w.pdf): PDF inclusion: f
+pdfTeX warning: pdflatex (file ./Graphic/03_rectavoltage.pdf): PDF inclusion: f
 ound PDF version <1.7>, but at most version <1.5> allowed
-<Graphic/03_rectapower_w.pdf, id=1229, 384.43625pt x 255.95625pt>
-File: Graphic/03_rectapower_w.pdf Graphic file (type pdf)
-<use Graphic/03_rectapower_w.pdf>
-Package pdftex.def Info: Graphic/03_rectapower_w.pdf  used on input line 875.
-(pdftex.def)             Requested size: 173.49536pt x 115.51512pt.
+<Graphic/03_rectavoltage.pdf, id=1181, 345.41206pt x 244.29268pt>
+File: Graphic/03_rectavoltage.pdf Graphic file (type pdf)
+<use Graphic/03_rectavoltage.pdf>
+Package pdftex.def Info: Graphic/03_rectavoltage.pdf  used on input line 955.
+(pdftex.def)             Requested size: 178.8073pt x 126.46259pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 875--875
+
+pdfTeX warning: pdflatex (file ./Graphic/03_rectapower.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_rectapower.pdf, id=1182, 350.79524pt x 243.58258pt>
+File: Graphic/03_rectapower.pdf Graphic file (type pdf)
+<use Graphic/03_rectapower.pdf>
+Package pdftex.def Info: Graphic/03_rectapower.pdf  used on input line 955.
+(pdftex.def)             Requested size: 178.8073pt x 124.16228pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 955--955
 [][][][]  
  []
 
@@ -2001,9 +1842,32 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [34
 
- <./Graphic/03_rectavoltage_w.pdf> <./Graphic/03_rectafrequency_w.pdf> <./Graph
-ic/03_rectapower_w.pdf>] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 878--878
+ <./Graphic/03_rectavoltage.pdf> <./Graphic/03_rectapower.pdf>]
+
+pdfTeX warning: pdflatex (file ./Graphic/03_rectavoltage_w.pdf): PDF inclusion:
+ found PDF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_rectavoltage_w.pdf, id=1229, 384.43625pt x 255.95625pt>
+File: Graphic/03_rectavoltage_w.pdf Graphic file (type pdf)
+<use Graphic/03_rectavoltage_w.pdf>
+Package pdftex.def Info: Graphic/03_rectavoltage_w.pdf  used on input line 989.
+
+(pdftex.def)             Requested size: 166.484pt x 110.84796pt.
+
+
+pdfTeX warning: pdflatex (file ./Graphic/03_rectapower_w.pdf): PDF inclusion: f
+ound PDF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_rectapower_w.pdf, id=1230, 384.43625pt x 255.95625pt>
+File: Graphic/03_rectapower_w.pdf Graphic file (type pdf)
+<use Graphic/03_rectapower_w.pdf>
+Package pdftex.def Info: Graphic/03_rectapower_w.pdf  used on input line 989.
+(pdftex.def)             Requested size: 173.49536pt x 115.51512pt.
+<Graphic/03_geo_Iform.png, id=1231, 730.98094pt x 448.67625pt>
+File: Graphic/03_geo_Iform.png Graphic file (type png)
+<use Graphic/03_geo_Iform.png>
+Package pdftex.def Info: Graphic/03_geo_Iform.png  used on input line 989.
+(pdftex.def)             Requested size: 105.14919pt x 64.53949pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 989--989
 [][][][]  
  []
 
@@ -2014,55 +1878,30 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [35
 
-]
-<Graphic/04_realimage.png, id=1295, 783.92876pt x 844.15375pt>
-File: Graphic/04_realimage.png Graphic file (type png)
-<use Graphic/04_realimage.png>
-Package pdftex.def Info: Graphic/04_realimage.png  used on input line 912.
-(pdftex.def)             Requested size: 99.7171pt x 107.37378pt.
-<Graphic/04_periostruc.pdf, id=1296, 1429.25975pt x 645.37112pt>
-File: Graphic/04_periostruc.pdf Graphic file (type pdf)
-<use Graphic/04_periostruc.pdf>
-Package pdftex.def Info: Graphic/04_periostruc.pdf  used on input line 912.
-(pdftex.def)             Requested size: 216.04953pt x 97.5499pt.
-Missing character: There is no â in font cmssi8!
-Missing character: There is no € in font cmssi8!
-Missing character: There is no “ in font cmssi8!
-Missing character: There is no â in font cmssi8!
-Missing character: There is no € in font cmssi8!
-Missing character: There is no “ in font cmssi8!
+ <./Graphic/03_rectavoltage_w.pdf> <./Graphic/03_rectapower_w.pdf> <./Graphic/0
+3_geo_Iform.png>]
+File: Graphic/03_rectavoltage_w.pdf Graphic file (type pdf)
+<use Graphic/03_rectavoltage_w.pdf>
+Package pdftex.def Info: Graphic/03_rectavoltage_w.pdf  used on input line 989.
 
-Underfull \hbox (badness 4266) in paragraph at lines 912--912
-[]\OT1/cmss/m/n/8 Vadla, S. et al. (2016)
- []
+(pdftex.def)             Requested size: 166.484pt x 110.84796pt.
+File: Graphic/03_rectapower_w.pdf Graphic file (type pdf)
+<use Graphic/03_rectapower_w.pdf>
+Package pdftex.def Info: Graphic/03_rectapower_w.pdf  used on input line 989.
+(pdftex.def)             Requested size: 173.49536pt x 115.51512pt.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 912--912
-\OT1/cmss/m/it/8 Mag-ne-to-elec-tric cou-pling in
- []
+pdfTeX warning: pdflatex (file ./Graphic/03_rectafrequency_w.pdf): PDF inclusio
+n: found PDF version <1.7>, but at most version <1.5> allowed
+<Graphic/03_rectafrequency_w.pdf, id=1266, 384.43625pt x 255.95625pt>
+File: Graphic/03_rectafrequency_w.pdf Graphic file (type pdf)
+<use Graphic/03_rectafrequency_w.pdf>
+Package pdftex.def Info: Graphic/03_rectafrequency_w.pdf  used on input line 98
+9.
+(pdftex.def)             Requested size: 166.484pt x 110.84796pt.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 912--912
-\OT1/cmss/m/it/8 Pb-TiO30.15 PbZrO3 and
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 912--912
-\OT1/cmss/m/it/8 CoFe2O4 based par-tic-u-late
- []
-
-
-Overfull \hbox (2.22324pt too wide) in paragraph at lines 912--912
-[][] 
- []
-
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 912--912
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 989--989
 [][][][]  
- []
-
-
-Overfull \vbox (16.95372pt too high) detected at line 912
  []
 
 
@@ -2072,15 +1911,8 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [36
 
- <./Graphic/04_realimage.png> <./Graphic/04_periostruc.pdf>]
-<Graphic/04_meshperiocondi.pdf, id=1321, 753.11687pt x 677.80522pt>
-File: Graphic/04_meshperiocondi.pdf Graphic file (type pdf)
-<use Graphic/04_meshperiocondi.pdf>
-Package pdftex.def Info: Graphic/04_meshperiocondi.pdf  used on input line 956.
-
-(pdftex.def)             Requested size: 162.87148pt x 146.5837pt.
-
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 956--956
+ <./Graphic/03_rectafrequency_w.pdf>] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 992--992
 [][][][]  
  []
 
@@ -2091,22 +1923,49 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [37
 
- <./Graphic/04_meshperiocondi.pdf>]
+]
+<Graphic/04_realimage.png, id=1310, 783.92876pt x 844.15375pt>
+File: Graphic/04_realimage.png Graphic file (type png)
+<use Graphic/04_realimage.png>
+Package pdftex.def Info: Graphic/04_realimage.png  used on input line 1030.
+(pdftex.def)             Requested size: 99.7171pt x 107.37378pt.
+<Graphic/04_periostruc.pdf, id=1311, 1429.25975pt x 645.37112pt>
+File: Graphic/04_periostruc.pdf Graphic file (type pdf)
+<use Graphic/04_periostruc.pdf>
+Package pdftex.def Info: Graphic/04_periostruc.pdf  used on input line 1030.
+(pdftex.def)             Requested size: 216.04953pt x 97.5499pt.
 
-pdfTeX warning: pdflatex (file ./Graphic/04_homoprocedure.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<Graphic/04_homoprocedure.pdf, id=1340, 904.12923pt x 625.49112pt>
-File: Graphic/04_homoprocedure.pdf Graphic file (type pdf)
-<use Graphic/04_homoprocedure.pdf>
-Package pdftex.def Info: Graphic/04_homoprocedure.pdf  used on input line 961.
-(pdftex.def)             Requested size: 332.38704pt x 229.94873pt.
+Underfull \hbox (badness 4266) in paragraph at lines 1030--1030
+[]\OT1/cmss/m/n/8 Vadla, S. et al. (2016)
+ []
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 961--961
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 Mag-ne-to-elec-tric cou-pling in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 Pb-TiO3{0.15 PbZrO3 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 CoFe2O4 based par-tic-u-late
+ []
+
+
+Overfull \hbox (2.22324pt too wide) in paragraph at lines 1030--1030
+[][] 
+ []
+
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1030--1030
 [][][][]  
  []
 
 
-Overfull \vbox (1.93944pt too high) detected at line 961
+Overfull \vbox (16.95372pt too high) detected at line 1030
  []
 
 
@@ -2116,9 +1975,47 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [38
 
- <./Graphic/04_homoprocedure.pdf>] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 963--963
+ <./Graphic/04_realimage.png> <./Graphic/04_periostruc.pdf>]
+File: Graphic/04_realimage.png Graphic file (type png)
+<use Graphic/04_realimage.png>
+Package pdftex.def Info: Graphic/04_realimage.png  used on input line 1030.
+(pdftex.def)             Requested size: 99.7171pt x 107.37378pt.
+File: Graphic/04_periostruc.pdf Graphic file (type pdf)
+<use Graphic/04_periostruc.pdf>
+Package pdftex.def Info: Graphic/04_periostruc.pdf  used on input line 1030.
+(pdftex.def)             Requested size: 216.04953pt x 97.5499pt.
+
+Underfull \hbox (badness 4266) in paragraph at lines 1030--1030
+[]\OT1/cmss/m/n/8 Vadla, S. et al. (2016)
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 Mag-ne-to-elec-tric cou-pling in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 Pb-TiO3{0.15 PbZrO3 and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1030--1030
+\OT1/cmss/m/it/8 CoFe2O4 based par-tic-u-late
+ []
+
+
+Overfull \hbox (2.22324pt too wide) in paragraph at lines 1030--1030
+[][] 
+ []
+
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1030--1030
 [][][][]  
+ []
+
+
+Overfull \vbox (16.95372pt too high) detected at line 1030
  []
 
 
@@ -2129,24 +2026,14 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [39
 
 ]
-<Graphic/04_geocylin.pdf, id=1429, 752.91757pt x 677.62584pt>
-File: Graphic/04_geocylin.pdf Graphic file (type pdf)
-<use Graphic/04_geocylin.pdf>
-Package pdftex.def Info: Graphic/04_geocylin.pdf  used on input line 1010.
-(pdftex.def)             Requested size: 99.7171pt x 89.73846pt.
-<Graphic/04_magnecylinb1.pdf, id=1430, 302.87553pt x 306.52417pt>
-File: Graphic/04_magnecylinb1.pdf Graphic file (type pdf)
-<use Graphic/04_magnecylinb1.pdf>
-Package pdftex.def Info: Graphic/04_magnecylinb1.pdf  used on input line 1010.
-(pdftex.def)             Requested size: 116.33748pt x 117.73854pt.
-<Graphic/04_magnecylinb1_xyview.pdf, id=1431, 311.39034pt x 307.74072pt>
-File: Graphic/04_magnecylinb1_xyview.pdf Graphic file (type pdf)
-<use Graphic/04_magnecylinb1_xyview.pdf>
-Package pdftex.def Info: Graphic/04_magnecylinb1_xyview.pdf  used on input line
- 1010.
-(pdftex.def)             Requested size: 116.33748pt x 114.97516pt.
+<Graphic/04_meshperiocondi.pdf, id=1346, 753.11687pt x 677.80522pt>
+File: Graphic/04_meshperiocondi.pdf Graphic file (type pdf)
+<use Graphic/04_meshperiocondi.pdf>
+Package pdftex.def Info: Graphic/04_meshperiocondi.pdf  used on input line 1075
+.
+(pdftex.def)             Requested size: 162.87148pt x 146.5837pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1010--1010
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1075--1075
 [][][][]  
  []
 
@@ -2157,27 +2044,23 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [40
 
- <./Graphic/04_geocylin.pdf> <./Graphic/04_magnecylinb1.pdf> <./Graphic/04_magn
-ecylinb1_xyview.pdf>]
-<Graphic/04_cylinmatee.pdf, id=1465, 415.77333pt x 337.63138pt>
-File: Graphic/04_cylinmatee.pdf Graphic file (type pdf)
-<use Graphic/04_cylinmatee.pdf>
-Package pdftex.def Info: Graphic/04_cylinmatee.pdf  used on input line 1039.
-(pdftex.def)             Requested size: 132.95277pt x 107.9618pt.
-<Graphic/04_cylinmatqu.pdf, id=1466, 419.79837pt x 334.62013pt>
-File: Graphic/04_cylinmatqu.pdf Graphic file (type pdf)
-<use Graphic/04_cylinmatqu.pdf>
-Package pdftex.def Info: Graphic/04_cylinmatqu.pdf  used on input line 1039.
-(pdftex.def)             Requested size: 132.95277pt x 105.97264pt.
-<Graphic/04_cylinmatalpha.pdf, id=1467, 419.78833pt x 341.65643pt>
-File: Graphic/04_cylinmatalpha.pdf Graphic file (type pdf)
-<use Graphic/04_cylinmatalpha.pdf>
-Package pdftex.def Info: Graphic/04_cylinmatalpha.pdf  used on input line 1039.
+ <./Graphic/04_meshperiocondi.pdf>]
 
-(pdftex.def)             Requested size: 132.95277pt x 108.20622pt.
+pdfTeX warning: pdflatex (file ./Graphic/04_homoprocedure.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
+<Graphic/04_homoprocedure.pdf, id=1364, 904.12923pt x 625.49112pt>
+File: Graphic/04_homoprocedure.pdf Graphic file (type pdf)
+<use Graphic/04_homoprocedure.pdf>
+Package pdftex.def Info: Graphic/04_homoprocedure.pdf  used on input line 1081.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1039--1039
+(pdftex.def)             Requested size: 318.95447pt x 220.65266pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1081--1081
 [][][][]  
+ []
+
+
+Overfull \vbox (8.37254pt too high) detected at line 1081
  []
 
 
@@ -2187,16 +2070,8 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [41
 
- <./Graphic/04_cylinmatee.pdf> <./Graphic/04_cylinmatqu.pdf
-
-pdfTeX warning: pdflatex (file ./Graphic/04_cylinmatqu.pdf): PDF inclusion: mul
-tiple pdfs with page group included in a single page
-> <./Graphic/04_cylinmatalpha.pdf
-
-pdfTeX warning: pdflatex (file ./Graphic/04_cylinmatalpha.pdf): PDF inclusion: 
-multiple pdfs with page group included in a single page
->] (Thesis_defense.toc)
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1042--1042
+ <./Graphic/04_homoprocedure.pdf>] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1083--1083
 [][][][]  
  []
 
@@ -2208,18 +2083,24 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [42
 
 ]
-<Graphic/04_geocube.pdf, id=1539, 611.88597pt x 703.428pt>
-File: Graphic/04_geocube.pdf Graphic file (type pdf)
-<use Graphic/04_geocube.pdf>
-Package pdftex.def Info: Graphic/04_geocube.pdf  used on input line 1061.
-(pdftex.def)             Requested size: 114.82466pt x 131.99976pt.
-<Graphic/04_cubeillush1.png, id=1540, 814.04124pt x 885.3075pt>
-File: Graphic/04_cubeillush1.png Graphic file (type png)
-<use Graphic/04_cubeillush1.png>
-Package pdftex.def Info: Graphic/04_cubeillush1.png  used on input line 1061.
-(pdftex.def)             Requested size: 206.07832pt x 224.10912pt.
+<Graphic/04_geocylin.pdf, id=1454, 752.91757pt x 677.62584pt>
+File: Graphic/04_geocylin.pdf Graphic file (type pdf)
+<use Graphic/04_geocylin.pdf>
+Package pdftex.def Info: Graphic/04_geocylin.pdf  used on input line 1131.
+(pdftex.def)             Requested size: 99.7171pt x 89.73846pt.
+<Graphic/04_magnecylinb1.pdf, id=1455, 302.87553pt x 306.52417pt>
+File: Graphic/04_magnecylinb1.pdf Graphic file (type pdf)
+<use Graphic/04_magnecylinb1.pdf>
+Package pdftex.def Info: Graphic/04_magnecylinb1.pdf  used on input line 1131.
+(pdftex.def)             Requested size: 116.33748pt x 117.73854pt.
+<Graphic/04_magnecylinb1_xyview.pdf, id=1456, 311.39034pt x 307.74072pt>
+File: Graphic/04_magnecylinb1_xyview.pdf Graphic file (type pdf)
+<use Graphic/04_magnecylinb1_xyview.pdf>
+Package pdftex.def Info: Graphic/04_magnecylinb1_xyview.pdf  used on input line
+ 1131.
+(pdftex.def)             Requested size: 116.33748pt x 114.97516pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1061--1061
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1131--1131
 [][][][]  
  []
 
@@ -2230,19 +2111,26 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [43
 
- <./Graphic/04_geocube.pdf> <./Graphic/04_cubeillush1.png (PNG copy)>]
-<Graphic/04_cubematqu.pdf, id=1569, 412.54124pt x 317.185pt>
-File: Graphic/04_cubematqu.pdf Graphic file (type pdf)
-<use Graphic/04_cubematqu.pdf>
-Package pdftex.def Info: Graphic/04_cubematqu.pdf  used on input line 1081.
-(pdftex.def)             Requested size: 162.87148pt x 125.2262pt.
-<Graphic/04_cubematalpha.pdf, id=1570, 389.455pt x 331.2375pt>
-File: Graphic/04_cubematalpha.pdf Graphic file (type pdf)
-<use Graphic/04_cubematalpha.pdf>
-Package pdftex.def Info: Graphic/04_cubematalpha.pdf  used on input line 1081.
-(pdftex.def)             Requested size: 162.87148pt x 138.52238pt.
+ <./Graphic/04_geocylin.pdf> <./Graphic/04_magnecylinb1.pdf> <./Graphic/04_magn
+ecylinb1_xyview.pdf>]
+File: Graphic/04_geocylin.pdf Graphic file (type pdf)
+<use Graphic/04_geocylin.pdf>
+Package pdftex.def Info: Graphic/04_geocylin.pdf  used on input line 1131.
+(pdftex.def)             Requested size: 99.7171pt x 89.73846pt.
+<Graphic/04_E1cylinelecpoten_3d.png, id=1491, 421.575pt x 316.18124pt>
+File: Graphic/04_E1cylinelecpoten_3d.png Graphic file (type png)
+<use Graphic/04_E1cylinelecpoten_3d.png>
+Package pdftex.def Info: Graphic/04_E1cylinelecpoten_3d.png  used on input line
+ 1131.
+(pdftex.def)             Requested size: 149.57314pt x 112.18pt.
+<Graphic/04_E1cylinelecfield_XYview.pdf, id=1492, 286.30965pt x 279.83145pt>
+File: Graphic/04_E1cylinelecfield_XYview.pdf Graphic file (type pdf)
+<use Graphic/04_E1cylinelecfield_XYview.pdf>
+Package pdftex.def Info: Graphic/04_E1cylinelecfield_XYview.pdf  used on input 
+line 1131.
+(pdftex.def)             Requested size: 116.33748pt x 113.70259pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1081--1081
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1131--1131
 [][][][]  
  []
 
@@ -2253,34 +2141,26 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [44
 
- <./Graphic/04_cubematqu.pdf> <./Graphic/04_cubematalpha.pdf>]
-<Graphic/04_B3cubemagnefield300k_XZview.pdf, id=1615, 306.3465pt x 299.6274pt>
-File: Graphic/04_B3cubemagnefield300k_XZview.pdf Graphic file (type pdf)
-<use Graphic/04_B3cubemagnefield300k_XZview.pdf>
-Package pdftex.def Info: Graphic/04_B3cubemagnefield300k_XZview.pdf  used on in
-put line 1123.
-(pdftex.def)             Requested size: 105.76004pt x 103.44014pt.
-<Graphic/04_B3cubeeddy300k_XYview.pdf, id=1616, 305.00249pt x 292.91032pt>
-File: Graphic/04_B3cubeeddy300k_XYview.pdf Graphic file (type pdf)
-<use Graphic/04_B3cubeeddy300k_XYview.pdf>
-Package pdftex.def Info: Graphic/04_B3cubeeddy300k_XYview.pdf  used on input li
-ne 1123.
-(pdftex.def)             Requested size: 105.76004pt x 101.56367pt.
-<Graphic/04_B3cubemagnefield3MHz_XZview.pdf, id=1617, 294.25333pt x 296.94035pt
->
-File: Graphic/04_B3cubemagnefield3MHz_XZview.pdf Graphic file (type pdf)
-<use Graphic/04_B3cubemagnefield3MHz_XZview.pdf>
-Package pdftex.def Info: Graphic/04_B3cubemagnefield3MHz_XZview.pdf  used on in
-put line 1123.
-(pdftex.def)             Requested size: 105.76004pt x 106.72626pt.
-<Graphic/04_B3cubeeddy3MHz_XYview.pdf, id=1618, 303.65845pt x 298.28441pt>
-File: Graphic/04_B3cubeeddy3MHz_XYview.pdf Graphic file (type pdf)
-<use Graphic/04_B3cubeeddy3MHz_XYview.pdf>
-Package pdftex.def Info: Graphic/04_B3cubeeddy3MHz_XYview.pdf  used on input li
-ne 1123.
-(pdftex.def)             Requested size: 105.76004pt x 103.88678pt.
+ <./Graphic/04_E1cylinelecpoten_3d.png (PNG copy)> <./Graphic/04_E1cylinelecfie
+ld_XYview.pdf>]
+<Graphic/04_cylinmatee.pdf, id=1511, 415.77333pt x 337.63138pt>
+File: Graphic/04_cylinmatee.pdf Graphic file (type pdf)
+<use Graphic/04_cylinmatee.pdf>
+Package pdftex.def Info: Graphic/04_cylinmatee.pdf  used on input line 1160.
+(pdftex.def)             Requested size: 132.95277pt x 107.9618pt.
+<Graphic/04_cylinmatqu.pdf, id=1512, 419.79837pt x 334.62013pt>
+File: Graphic/04_cylinmatqu.pdf Graphic file (type pdf)
+<use Graphic/04_cylinmatqu.pdf>
+Package pdftex.def Info: Graphic/04_cylinmatqu.pdf  used on input line 1160.
+(pdftex.def)             Requested size: 132.95277pt x 105.97264pt.
+<Graphic/04_cylinmatalpha.pdf, id=1513, 419.78833pt x 341.65643pt>
+File: Graphic/04_cylinmatalpha.pdf Graphic file (type pdf)
+<use Graphic/04_cylinmatalpha.pdf>
+Package pdftex.def Info: Graphic/04_cylinmatalpha.pdf  used on input line 1160.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1123--1123
+(pdftex.def)             Requested size: 132.95277pt x 108.20622pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1160--1160
 [][][][]  
  []
 
@@ -2291,10 +2171,16 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 
 [45
 
- <./Graphic/04_B3cubemagnefield300k_XZview.pdf> <./Graphic/04_B3cubeeddy300k_XY
-view.pdf> <./Graphic/04_B3cubemagnefield3MHz_XZview.pdf> <./Graphic/04_B3cubeed
-dy3MHz_XYview.pdf>]
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1153--1153
+ <./Graphic/04_cylinmatee.pdf> <./Graphic/04_cylinmatqu.pdf
+
+pdfTeX warning: pdflatex (file ./Graphic/04_cylinmatqu.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+> <./Graphic/04_cylinmatalpha.pdf
+
+pdfTeX warning: pdflatex (file ./Graphic/04_cylinmatalpha.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>] (Thesis_defense.toc)
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1163--1163
 [][][][]  
  []
 
@@ -2306,11 +2192,18 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 [46
 
 ]
-Missing character: There is no â in font cmss8!
-Missing character: There is no € in font cmss8!
-Missing character: There is no “ in font cmss8!
+<Graphic/04_geocube.pdf, id=1586, 611.88597pt x 703.428pt>
+File: Graphic/04_geocube.pdf Graphic file (type pdf)
+<use Graphic/04_geocube.pdf>
+Package pdftex.def Info: Graphic/04_geocube.pdf  used on input line 1182.
+(pdftex.def)             Requested size: 114.82466pt x 131.99976pt.
+<Graphic/04_cubeillush1.png, id=1587, 814.04124pt x 885.3075pt>
+File: Graphic/04_cubeillush1.png Graphic file (type png)
+<use Graphic/04_cubeillush1.png>
+Package pdftex.def Info: Graphic/04_cubeillush1.png  used on input line 1182.
+(pdftex.def)             Requested size: 206.07832pt x 224.10912pt.
 
-Overfull \hbox (4.69994pt too wide) in paragraph at lines 1167--1167
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1182--1182
 [][][][]  
  []
 
@@ -2320,6 +2213,112 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
  []
 
 [47
+
+ <./Graphic/04_geocube.pdf> <./Graphic/04_cubeillush1.png (PNG copy)>]
+<Graphic/04_cubematqu.pdf, id=1615, 412.54124pt x 317.185pt>
+File: Graphic/04_cubematqu.pdf Graphic file (type pdf)
+<use Graphic/04_cubematqu.pdf>
+Package pdftex.def Info: Graphic/04_cubematqu.pdf  used on input line 1202.
+(pdftex.def)             Requested size: 162.87148pt x 125.2262pt.
+<Graphic/04_cubematalpha.pdf, id=1616, 389.455pt x 331.2375pt>
+File: Graphic/04_cubematalpha.pdf Graphic file (type pdf)
+<use Graphic/04_cubematalpha.pdf>
+Package pdftex.def Info: Graphic/04_cubematalpha.pdf  used on input line 1202.
+(pdftex.def)             Requested size: 162.87148pt x 138.52238pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1202--1202
+[][][][]  
+ []
+
+
+Overfull \hbox (7.79178pt too wide) has occurred while \output is active
+[]|  []  
+ []
+
+[48
+
+ <./Graphic/04_cubematqu.pdf> <./Graphic/04_cubematalpha.pdf>]
+<Graphic/04_cubeeddyeffect.pdf, id=1661, 401.2835pt x 324.28253pt>
+File: Graphic/04_cubeeddyeffect.pdf Graphic file (type pdf)
+<use Graphic/04_cubeeddyeffect.pdf>
+Package pdftex.def Info: Graphic/04_cubeeddyeffect.pdf  used on input line 1218
+.
+(pdftex.def)             Requested size: 249.29027pt x 201.45387pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1218--1218
+[][][][]  
+ []
+
+
+Overfull \hbox (7.79178pt too wide) has occurred while \output is active
+[]|  []  
+ []
+
+[49
+
+ <./Graphic/04_cubeeddyeffect.pdf>]
+<Graphic/04_B3cubemagnefield300k_XZview.pdf, id=1693, 306.3465pt x 299.6274pt>
+File: Graphic/04_B3cubemagnefield300k_XZview.pdf Graphic file (type pdf)
+<use Graphic/04_B3cubemagnefield300k_XZview.pdf>
+Package pdftex.def Info: Graphic/04_B3cubemagnefield300k_XZview.pdf  used on in
+put line 1260.
+(pdftex.def)             Requested size: 105.76004pt x 103.44014pt.
+<Graphic/04_B3cubeeddy300k_XYview.pdf, id=1694, 305.00249pt x 292.91032pt>
+File: Graphic/04_B3cubeeddy300k_XYview.pdf Graphic file (type pdf)
+<use Graphic/04_B3cubeeddy300k_XYview.pdf>
+Package pdftex.def Info: Graphic/04_B3cubeeddy300k_XYview.pdf  used on input li
+ne 1260.
+(pdftex.def)             Requested size: 105.76004pt x 101.56367pt.
+<Graphic/04_B3cubemagnefield3MHz_XZview.pdf, id=1695, 294.25333pt x 296.94035pt
+>
+File: Graphic/04_B3cubemagnefield3MHz_XZview.pdf Graphic file (type pdf)
+<use Graphic/04_B3cubemagnefield3MHz_XZview.pdf>
+Package pdftex.def Info: Graphic/04_B3cubemagnefield3MHz_XZview.pdf  used on in
+put line 1260.
+(pdftex.def)             Requested size: 105.76004pt x 106.72626pt.
+<Graphic/04_B3cubeeddy3MHz_XYview.pdf, id=1696, 303.65845pt x 298.28441pt>
+File: Graphic/04_B3cubeeddy3MHz_XYview.pdf Graphic file (type pdf)
+<use Graphic/04_B3cubeeddy3MHz_XYview.pdf>
+Package pdftex.def Info: Graphic/04_B3cubeeddy3MHz_XYview.pdf  used on input li
+ne 1260.
+(pdftex.def)             Requested size: 105.76004pt x 103.88678pt.
+
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1260--1260
+[][][][]  
+ []
+
+
+Overfull \hbox (7.79178pt too wide) has occurred while \output is active
+[]|  []  
+ []
+
+[50
+
+ <./Graphic/04_B3cubemagnefield300k_XZview.pdf> <./Graphic/04_B3cubeeddy300k_XY
+view.pdf> <./Graphic/04_B3cubemagnefield3MHz_XZview.pdf> <./Graphic/04_B3cubeed
+dy3MHz_XYview.pdf>]
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1293--1293
+[][][][]  
+ []
+
+
+Overfull \hbox (7.79178pt too wide) has occurred while \output is active
+[]|  []  
+ []
+
+[51
+
+]
+Overfull \hbox (4.69994pt too wide) in paragraph at lines 1307--1307
+[][][][]  
+ []
+
+
+Overfull \hbox (7.79178pt too wide) has occurred while \output is active
+[]|  []  
+ []
+
+[52
 
 ]
 \tf@nav=\write6
@@ -2331,47 +2330,46 @@ Overfull \hbox (7.79178pt too wide) has occurred while \output is active
 \tf@snm=\write8
 \openout8 = `Thesis_defense.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1175.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1175.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1315.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1315.
 (Thesis_defense.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1175.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1315.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1315.
 
 Package rerunfilecheck Info: File `Thesis_defense.out' has not changed.
-(rerunfilecheck)             Checksum: 3F842D8B376D1C78D648C46300F67ED1;810.
+(rerunfilecheck)             Checksum: A12F7E7CEAE68E15F9F124E4D5C4BA32;900.
  ) 
 Here is how much of TeX's memory you used:
- 24940 strings out of 493305
- 532849 string characters out of 3129803
- 604787 words of memory out of 3000000
- 27724 multiletter control sequences out of 15000+200000
- 37739 words of font info for 117 fonts, out of 3000000 for 9000
+ 24944 strings out of 492945
+ 526387 string characters out of 3135494
+ 615743 words of memory out of 3000000
+ 28057 multiletter control sequences out of 15000+200000
+ 39391 words of font info for 124 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,18n,76p,793b,1043s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\tuana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecso1000.pk> <C:\Users\tuana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
-ec\dpi600\ecso0800.pk> <C:\Users\tuana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour
-\jknappen\ec\dpi657\ecso1000.pk><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/tuana/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/tuana/AppD
-ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Use
-rs/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7
-.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmmi8.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmss10.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/tuana/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Users/tuana/AppData/
-Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users
-/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10
-.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmssi8.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/tuana/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/tuana/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/tuana/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Thesis_defense.pdf (47 pages, 9783803 bytes).
+ <C:\Users\Tuan-Anh Do\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecso1000.pk> <C:\Users\Tuan-Anh Do\AppData\Local\MiKTeX\2.9\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecso0800.pk> <C:\Users\Tuan-Anh Do\AppData\Local\MiKTeX\2
+.9\fonts/pk/ljfour/jknappen/ec/dpi657\ecso1000.pk><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmssi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/eule
+r/eufm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb>
+Output written on Thesis_defense.pdf (52 pages, 9600687 bytes).
 PDF statistics:
- 1785 PDF objects out of 2073 (max. 8388607)
- 108 named destinations out of 1000 (max. 500000)
- 523 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1876 PDF objects out of 2073 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 526 words of extra memory for PDF output out of 10000 (max. 10000000)
 
