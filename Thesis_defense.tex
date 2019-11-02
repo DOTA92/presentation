@@ -138,7 +138,7 @@ Supervisor : & Aurelie Gensbittel \\
 
 \begin{frame}\frametitle{Motivation}
 \vspace{-12.5pt}
-The evolution of IoTs \\
+\only<1>{ The evolution of IoTs \\
 \begin{columns}[totalwidth=\textwidth] 
    \begin{column}{.75\textwidth} 
    \includegraphics[width=0.99\textwidth]{Graphic/01_iotnumber.pdf}
@@ -151,7 +151,21 @@ The evolution of IoTs \\
        \refonslide{IHS forecast.}{IoT platforms: enabling the Internet of Things.}{March 2016.}
    \end{column}
 \end{columns}
-\begin{columns}[totalwidth=\textwidth] 
+}
+\only<2>{\begin{columns}[totalwidth=\textwidth] 
+   \begin{column}{.75\textwidth} 
+   \includegraphics[width=0.9\textwidth]{Graphic/Mediot}
+   \end{column}
+   \begin{column}{.24\textwidth}
+   \centering
+   More devices \\ [0.2cm]
+   {\color{red} \Huge$\mathbf{\downarrow}$} \\ [0.2cm]
+    More power requirement \\ [0.2cm]
+       \refonslide{infiniteinformation- technology.com}{Internet of Things in the Medical Device Industry}{}
+   \end{column}
+\end{columns}
+}
+\begin{columns}[totalwidth=\textwidth]<2->
    \begin{column}{.40\textwidth} 
    \begin{alertblock}{Battery as power}
 	\begin{itemize}[label=$\boxed{\color{red} \times}$, font=\small, leftmargin=*]
@@ -591,10 +605,10 @@ $\bullet$ Compute material Jacobian \vspace*{-0.75\baselineskip}
             %\node[block, right=0.5cm of t4, anchor=west]   (t6){compute $\Delta\mathbf{B}$, then extract $\Delta\mathbf{H},\Delta\mathbf{T}$, from $\Delta\mathbf{B},\Delta\mathbf{U}$ and update $\mathbf{H}=\mathbf{H}+\Delta\mathbf{H}$, $\mathbf{T}=\mathbf{T}+\Delta\mathbf{T}$};
             %\node[decision, above right=0.05cm and 2cm of t2, anchor=west](t7){Check $n=N$};
             %\node[block, above of=t7, text width=5em]   (t8){$n=n+1$};
-            \node[block, below of=t2]   (t3){Solve equation \\ $[\Delta\boldsymbol{U},\Delta\boldsymbol{A},\Delta V]=mat\_UAV \setminus \Delta\boldsymbol{F}$};
+            \node[block, below of=t2]   (t3){Solve equation \\ $[\Delta\boldsymbol{U},\Delta\boldsymbol{a},\Delta V]=mat\_UAV \setminus \Delta\boldsymbol{F}$};
             %\node[block, right=0.5cm of t5, anchor=west]   (t9){Chose $\Delta\mathbf{H}_{dc}$, $N=\mathbf{H}_{dc} \setminus \Delta\mathbf{H}_{dc}$ \\ assemble differential external load $\Delta\mathbf{F}$};
             %\node[block, right=2cm of t7, anchor=west] (t10){Solve FEM equation under $\mathbf{H}_{ac}$};
-            \node[block, below=2cm of t3, anchor=south]   (t4){$[\Delta S, \Delta B, \Delta E] = state\_eq([\Delta\boldsymbol{U},\Delta\boldsymbol{A},\Delta V])$ \\ $[\Delta H, \Delta T] = const.law(\Delta B, \Delta S)$};
+            \node[block, below=2cm of t3, anchor=south]   (t4){$[\Delta S, \Delta B, \Delta E] = state\_eq([\Delta\boldsymbol{U},\Delta\boldsymbol{a},\Delta V])$ \\ $[\Delta H, \Delta T] = const.law(\Delta B, \Delta S)$};
             \node[block, below of=t4]   (t5){update $\boldsymbol{H}, \boldsymbol{T}$};
 
             \path[line] (t1) --          (t2);
@@ -687,7 +701,7 @@ $\bullet$ $ \boldsymbol{C}_{uu} = \alpha \boldsymbol{M}_{uu} + \beta \boldsymbol
 	\end{columns}
 \end{frame}
 
-\section{Laminate Composite}
+\section{Laminate Composites}
 \subsection{Laminate composite with circular section}
 
 \begin{frame}\frametitle{Geometry}
@@ -734,7 +748,7 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \begin{columns}[totalwidth=\textwidth]
    \begin{column}{.52\textwidth}
        \centering
-       Simulation result
+       Simulation results
         \includegraphics[height=0.65\textwidth ,width=0.95\textwidth]{Graphic/result_nonlinear.pdf} \\
    \end{column}
 
@@ -1327,7 +1341,7 @@ Apply respectively $\boldsymbol{\bar{S}}, \boldsymbol{\bar{B}}, \boldsymbol{\bar
 \begin{exampleblock}{Perspectives}
 \begin{itemize} [label=$\bullet$, font=\small, leftmargin=*]
 \item Other methods for analyzing nonlinear magnetostrictive can be tested.
-\item Analyze the behavior of particulate composite and fiber composite using the coefficients effective obtained by homogenization procedure.
+\item Analyze the behavior of particulate composite and fiber composite, REV with more complicated inclusion.
 \item Other structures can be considered to improve ME coefficient.
 \end{itemize}
 \end{exampleblock}
