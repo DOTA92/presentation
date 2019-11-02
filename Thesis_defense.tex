@@ -272,17 +272,20 @@ The evolution of IoTs \\
 \includegraphics[width=0.83\textwidth]{Graphic/01_photoMEcircle.png}
 	\end{column}
 	\begin{column}{.5\textwidth}
-	\includegraphics[width=0.99\textwidth]{Graphic/01_geoMEcircu.pdf}
+	\includegraphics[width=0.9\textwidth]{Graphic/01_sourceMEcircle.png}
 	\end{column}
 \end{columns}
 \end{alertblock}
-\begin{exampleblock}{Thesis works} 
+
+\only<1>{\refonslide{Zhou, Y., Yan, Y., \& Priya, S. (2014).}{Co-fired magnetoelectric transformer.}{Applied Physics Letters, 104(23), 232906.}}
+\only<2>{\begin{exampleblock}{Thesis works} 
   \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 	\item Develop a 3D FEM to consider complex structure.
 	\item Analyze laminate composites (circular section, rectangular section), novel structures.
 	\item Study different types: particulate composites and fiber composites.
 	\end{itemize}
-\end{exampleblock}	
+\end{exampleblock}
+}	
 \end{frame}
 
 
@@ -377,9 +380,11 @@ Static regime
 \end{equation*}
 \end{exampleblock}	
 
+\begin{columns}[totalwidth=\textwidth] 
+   \begin{column}{.45\textwidth}
 \begin{exampleblock}{FE discretization} 
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
-	\item Nodal element
+	\item Nodal element \vspace*{-0.5\baselineskip}
 	\begin{equation*}
 	\left\{ 
 	\begin{aligned}
@@ -388,12 +393,23 @@ Static regime
 	\end{aligned}
 	\right.
 	\end{equation*}
-	\item Edge element
+	\item Edge element \vspace*{-\baselineskip}
 	\begin{equation*}
 	\boldsymbol{a}_h=\boldsymbol{w}^e \boldsymbol{a}_h^k
 	\end{equation*}
 	\end{itemize}
-\end{exampleblock}	
+\end{exampleblock}
+\end{column}
+\begin{column}{.5\textwidth}
+\begin{exampleblock}{} 
+  \centering
+ 3D piezoelectric model \\ [0.1cm]
+ {\color{red} \Large$\mathbf{\boldsymbol{+}}$} \\ [0.1cm]
+  3D magnetostrictive model
+  \refonslide{Zhi Qin.}{Finite Element Modeling and PGD Based Model Reduction for Piezoelectric \& Magnetostrictive Materials.}{PhD Thesis 2016.}
+  \end{exampleblock}
+\end{column}
+\end{columns}	
 \end{frame}
 
 \begin{frame}\frametitle{Static analysis}
@@ -605,7 +621,7 @@ $\boxed{\color{green} \checkmark}$ Preserve the spatial inhomogeneity in the mat
 \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 \item \textbf{Elastic equilibrium}
 \begin{equation*}
-	\text{div }\boldsymbol{T} + \boldsymbol{f} = \rho \frac{d^2 \boldsymbol{u}}{dt^2}
+	\text{div }\boldsymbol{T} + \boldsymbol{f} = {\color{brown} \rho \frac{d^2 \boldsymbol{u}}{dt^2} }
 	\hspace{2cm} \rho \text{: density kg/m}^3
 	\end{equation*}
 
@@ -613,22 +629,29 @@ $\boxed{\color{green} \checkmark}$ Preserve the spatial inhomogeneity in the mat
 \begin{equation*}
 				\left\{ 
 				\begin{aligned}
-				\text{curl } \boldsymbol{H} & = \boldsymbol{J}_c \\
-				\text{div } \boldsymbol{J}_c & = 0
+				\text{curl } \boldsymbol{H} & = {\color{blue}\boldsymbol{J}_c} \\
+				\text{div } {\color{blue}\boldsymbol{J}_c} & = 0
         		\end{aligned}
 				\right.
 				\hspace{2cm} \boldsymbol{J}_c = \sigma_c \boldsymbol{E} \text{: eddy currents}
 	\end{equation*}
 Introduce time primitive of electric potential (Faraday's law)
 \begin{equation*}
-\boldsymbol{E} = - \frac{d(\boldsymbol{a}+ \text{grad }\psi)}{dt}
-\hspace{2cm} \text{with } V=\frac{d \psi}{dt}
+\boldsymbol{E} = - (\frac{d\boldsymbol{a}}{dt}+V) \hspace{0.5cm} {\color{red} \Large \mathbf{\boldsymbol{\rightarrow}}} \hspace{0.5cm} \boldsymbol{E} = - \frac{d(\boldsymbol{a}+ \text{grad }\psi)}{dt}
+\hspace{1cm} \text{with } V=\frac{d \psi}{dt}
 \end{equation*}
-\item \textbf{Gauss's law}
+\begin{minipage}{0.5\linewidth}
+\item \textbf{Gauss's law} \vspace*{-0.5\baselineskip}
 \begin{equation*}
 \frac{d(\text{div } \boldsymbol{D})}{dt} = 0
-\hspace{0.5cm} \text{for the symetry of the system} 
 \end{equation*}
+\end{minipage}
+\begin{minipage}{0.45\linewidth}
+\item \textbf{Electrical charge} \vspace*{-0.5\baselineskip}
+\begin{equation*}
+{\color{magenta}U = -Z \frac{dQ}{dt}}
+\end{equation*}
+\end{minipage}
 \end{itemize}
 \end{frame}
 
@@ -651,13 +674,14 @@ with:
 \end{bmatrix}
 \end{equation*}
 }
-\item $\{ X \} = \{\boldsymbol{u},\hspace{0.2cm} \boldsymbol{a},\hspace{0.2cm} \psi,\hspace{0.2cm} Z \}^t$.
+\item $\{ X \} = \{\boldsymbol{u},\hspace{0.2cm} \boldsymbol{a},\hspace{0.2cm} \psi,\hspace{0.2cm} Q \}^t$.
 \end{itemize}
 \begin{columns}[totalwidth=\textwidth] 
 	\begin{column}{.5\textwidth}  
-$Z$ : Electrical charge connecting two electrodes.
+$\bullet$ $Z$ : Electrical charge (R) connecting two electrodes. \\
+$\bullet$ $ \boldsymbol{C}_{uu} = \alpha \boldsymbol{M}_{uu} + \beta \boldsymbol{K}_{uu} $
 	\end{column}
-	\begin{column}{.4\textwidth}  
+	\begin{column}{.45\textwidth}  
 \includegraphics[width=0.95\textwidth]{Graphic/01_geoMEcircu.pdf}
 	\end{column}
 	\end{columns}
@@ -668,20 +692,7 @@ $Z$ : Electrical charge connecting two electrodes.
 
 \begin{frame}\frametitle{Geometry}
 %\vspace{-10.5pt}
-\begin{columns}[totalwidth=\textwidth] 
-%	\begin{column}{.68\textwidth}  
-%	\begin{exampleblock}{Why laminate composite?}
-%	 \begin{itemize} [label=$\boxed{\checkmark}$, font=\small, leftmargin=*]
-%	 \item Good coupling can be obtained at the ferroelectric and ferromagnetic interfaces.
-%	 \item Higher resonance response in a wide frequency range
-%	 \end{itemize}
-%	\end{exampleblock}
-%	\end{column}
-	\begin{column}{.9\textwidth}  
-\refonslide{Wang, Lei, et al.}{Effect of load resistance on magnetoelectric properties in FeGa/BaTiO3/FeGa laminate composites.}{Journal of Alloys and Compounds 509.30 (2011): 7870-7873.}
-	\end{column}
-	\end{columns}
-\vspace{0.3cm}	
+	
 \begin{columns}[totalwidth=\textwidth]
    \begin{column}{.49\textwidth}
        \begin{beamercolorbox}[sep=8pt,center]{equation}
@@ -701,6 +712,20 @@ $Z$ : Electrical charge connecting two electrodes.
 BaTiO$_3$ (gray layer): Thickness 1.5mm, diameter 12mm \\
 FeGa (magenta layer): Thickness 1mm, diameter 10mm	
 }
+\vspace{0.3cm}
+\begin{columns}[totalwidth=\textwidth] 
+%	\begin{column}{.68\textwidth}  
+%	\begin{exampleblock}{Why laminate composite?}
+%	 \begin{itemize} [label=$\boxed{\checkmark}$, font=\small, leftmargin=*]
+%	 \item Good coupling can be obtained at the ferroelectric and ferromagnetic interfaces.
+%	 \item Higher resonance response in a wide frequency range
+%	 \end{itemize}
+%	\end{exampleblock}
+%	\end{column}
+	\begin{column}{.9\textwidth}  
+\refonslide{Wang, Lei, et al.}{Effect of load resistance on magnetoelectric properties in FeGa/BaTiO3/FeGa laminate composites.}{Journal of Alloys and Compounds 509.30 (2011): 7870-7873.}
+	\end{column}
+	\end{columns}
 \end{frame}
 
 \begin{frame}\frametitle{DC magnetic field dependence}
@@ -816,6 +841,13 @@ FeGa (magenta layer): Thickness 1mm, diameter 10mm
 \item The eddy currents decrease the performance of material.
 \item Measurement with $P_{max}=2.75(\mu W)$ $R_{opt}=0.6 k\Omega$
 \end{itemize}
+
+\begin{block}{Conclusion}
+\begin{itemize}[]
+	\item[{\color{green} $\checkmark$}] Showing dependence of ME coefficient on static magnetic field, taking into account the eddy currents effect in dynamic regime.
+	\item[{\color{red} $X$}] Damping effect, the influence of mechanical coupling.
+	\end{itemize}
+\end{block}	
 \end{frame}
 
 
@@ -1100,7 +1132,8 @@ Apply respectively $\boldsymbol{\bar{S}}, \boldsymbol{\bar{B}}, \boldsymbol{\bar
 	\begin{column}{.25\textwidth}
    \centering
    Example:
-   Magnetic field is applied
+   Magnetic field is applied\\
+   $\mu$, $q$, $\alpha$ 
    \end{column}
    \begin{column}{.35\textwidth}
    \centering
@@ -1117,7 +1150,8 @@ Apply respectively $\boldsymbol{\bar{S}}, \boldsymbol{\bar{B}}, \boldsymbol{\bar
 	\begin{column}{.15\textwidth}
    \centering
    Example:
-   Electric field is applied.
+   Electric field is applied. \\
+   $\epsilon$, $e$, $\alpha$ 
    \end{column}
    \begin{column}{.45\textwidth}
    \centering
@@ -1196,9 +1230,16 @@ Apply respectively $\boldsymbol{\bar{S}}, \boldsymbol{\bar{B}}, \boldsymbol{\bar
 \begin{exampleblock}{}
    \begin{itemize}[label=$\bullet$, font=\small, leftmargin=*]
 	\item Piezomagnetic coefficient increases when the magnetostrictive volume fraction increases.
-	\item The optimal ME coefficient is observed ($f=0.5$).
+	\item The optimal ME coefficient is (obtained @ $f=0.5$) $5*10^{-9} Ns/VC$.
 	\end{itemize}
 	\end{exampleblock}
+	
+\begin{block}{}
+\begin{itemize}[leftmargin=*]
+	\item[{\color{green} $\checkmark$}] Apply for  more complicated inclusion, whatever the number of phases.
+	%\item[{\color{red} $X$}] Damping effect, the influence of mechanical coupling.
+	\end{itemize}
+\end{block}		
 \end{frame}
 
 \begin{frame}\frametitle{Dynamic analysis}
@@ -1304,6 +1345,10 @@ Apply respectively $\boldsymbol{\bar{S}}, \boldsymbol{\bar{B}}, \boldsymbol{\bar
 
 
 \centering {\color{red}\textbf{\huge THANK YOU FOR YOUR ATTENTION}}
+\end{frame}
+
+\begin{frame}\frametitle{Appendix}
+
 \end{frame}
 
 %\section*{References}
